@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "전북 전주시 완산구 온고을로 2 (서신동)",
+    "BusMap": "롯데시네마 전주관 방문을 위한 버스 노선과 하차 정류장 안내\r\n<font color=blue><b>[이마트] : 101번, 102번, 104번, 200번, 2002번, 3-2번, 309번\r\n<font color=blue><b>[백제교]<font color=black>(터미널 방면) : 102번, 119번, 1994번, 200번, 5001번, 999번\r\n<font color=blue><b>[백제교]<font color=black>(종합경기장 방면) : 102번, 119번, 1994번, 200번, 5002번, 999번\r\n<font color=blue><b>[종합경기장] : 104번, 1994번, 2001번, 2002번, 5002번, 999번\r\n<font color=blue><b>[한일고] : 101번, 2001번, 309번\r\n<font color=blue><b>[광진선수촌아파트], [KT정보센터] : 74번, 75번, 6001번\r\n방면이 적혀 있지 않은 정류장은 양 방면 노선 동일함",
+    "SubWayMap": "",
+    "MyCarMap": "[내비게이션] <font color=red><b>롯데시네마 전주\r\n[주소] 전주시 완산구 온고을로2 \r\n[주차장 이용방법] : 롯데백화점 지하주차장 B2~B4<br>별관주차장 1층~6층(연결통로 별관주차장 3층 ↔ 백화점 2층)<br>주차 후 엘리베이터 이용하여 7층으로 이동\r\n<font color=red><b>백화점 영업시간 외 : 지하주차장 및 엘리베이터 사용가능<br>별관주차장 이용 시 1층에서 백화점 건물로 이동(도보 5초 이내)\r\n<font color=blue>[전주 I.C 방면] : 전주 I.C → 월드컵경기장 → 덕진경찰서 → 서곡교 → 롯데백화점\r\n<font color=blue>[전주역 방면] : 전주역 → 명주골네거리 → 덕진소방서 → 운동장네거리 → 백제교 → 롯데백화점\r\n<font color=blue>[시청 방면] : 전주시청 → 금암광장사거리 → 운동장네거리 → 백제교 → 롯데백화점\r\n<font color=blue>[박물관 방면] : 박물관 → 전주대 → 전라북도경찰청 → 마전교 → 진북터널사거리 → 통일광장 → 롯데백화점\r\n<font color=blue>[평화동 방면] : 꽃밭정이사거리 → 효자광장 → 선너머네거리 → 빙상경기장 → 통일광장 → 롯데백화점",
+    "ParkingInfo": "<font color=red>영화 관람 당일 주차권 인증 시 3시간 무료\r\n<font color=red>영화 관람 + 백화점 상품 1만원이상 구매시 4시간 무료<font color=black>(초과 15분당 1,000원) : * 매점 상품구매 금액은 주차 정산 미포함\r\n[주차권 안내] : 모바일 - 바로티켓 상단 주차권 버튼 클릭 시 바코드 생성<br>지류 티켓 - 영화 티켓 하단 주차권 or 거래번호 바코드 사용\r\n[주차 정산] : 사전 정산기 활용, 영화 관람 후 사전 정산<br>초과 요금은 카드결제 만 가능\r\n[정산기 위치] 7층 롯데시네마홀(매점 왼쪽 기둥), B2-B4 하행선 에스컬레이터 앞, 별관주차장 연결통로(백화점 2층 ↔ 별관주차장 3층)\r\n<font color=red>주차 인증 시 출차로 인식되니, 꼭 영화 관람 후에 인증 부탁드립니다.",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 1632,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0004",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 6002,
+    "CinemaNameKR": "전주(백화점)",
+    "CinemaNameUS": "Jeonju",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.83453637933",
+    "Longitude": "127.121796801292",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

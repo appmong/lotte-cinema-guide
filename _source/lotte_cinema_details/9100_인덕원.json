@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 안양시 동안구 흥안대로 519 (관양동) 7층",
+    "BusMap": "인덕원역 하차 일반버스:8, 8-1, 22, 51, 60, 777\r\n간선버스(파랑): 441, 502, 540\r\n좌석버스: 1303,1550-3\r\n[벌말사거리 방면]\r\n인덕원역 정류장 하차 좌측방향 직진 50미터 > 우측 아이퍼스트 진입 후 엘레베이터 이용 7층 이동\r\n[인덕원사거리 방면]\r\n인덕원역 정류장 하차 직진 30미터 > 3번출구 진입 > 4번출구이용 밖으로 이동 > 도보직진 50미터 > 우측 아이퍼스트 건물 진입 후 엘리베이터 이용 7층 이동",
+    "SubWayMap": "4호선 인덕원역 : 4번출구 (도보 직진 50미터 > 우측 아이퍼스트 건물 진입 후 엘리베이터 이용 7층) ",
+    "MyCarMap": "[네이게이션주소]롯데시네마 인덕원 : 경기도 안양시 동안구 흥안대로 519 (관양동, 아이퍼스트타워 7층)",
+    "ParkingInfo": "[주차요금 안내]\r\n당일 영화관람시 매점에서 티켓 혹은 모바일 티켓 인증 후 \r\n주차 등록시 3시간까지 무료.(초과 시 30분당 1,000원)\r\n[주차 등록 및 할인권]\r\n매점에서 주차 등록 후 할인권을 받아주세요.\r\n[출차시 추가요금 카드결제 시] \r\n(30분 1,000원 / 1시간 2,000원) 카드결제만 가능 (삼성페이불가)\r\n주차 가능 공간이 협소하므로 대중 교통을 이용해주시면 감사하겠습니다.",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 916,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9100,
+    "CinemaNameKR": "인덕원",
+    "CinemaNameUS": "Indeogwon",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.4003338",
+    "Longitude": "126.9761465",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

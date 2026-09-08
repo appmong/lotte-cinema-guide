@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "986"
+    ],
+    "CinemaIntro": "",
+    "Address": "전북 전주시 덕진구 송천중앙로225 (파인트리몰 6층)",
+    "BusMap": "롯데시네마 전주송천은 송천동성원무지개아파트 정류장 (150M), 송북초등학교 정류장 (500M) 인근 (도보 5분거리, 500M 인근) 파인트리몰 건물 6층에 위치해있습니다. ",
+    "SubWayMap": "",
+    "MyCarMap": "[내비게이션 검색] 롯데시네마 전주송천 <br>\r\n주소: 전주시 덕진구 송천중앙로 225 파인트리몰 6층 <br>\r\n[주차장 이용방법] <br>\r\n건물 지하 1층 ~ 지하 3층 주차장 이용 <br>\r\n영화 관람 당일 4시간 무료(6층 매표소 옆 셀프 주차 등록 이용) <br>",
+    "ParkingInfo": "영화 관람 당일 4시간 무료(6층 매표소 옆 셀프 주차 등록 이용) <br>\r\n건물 내 다른 매장 이용 시 해당 매장에서 추가 등록 가능 <br>\r\n무료 시간 초과 시 15분당 300원(일 최대 금액 20,000원) <br>",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 686,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0004",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9102,
+    "CinemaNameKR": "전주송천",
+    "CinemaNameUS": "Songcheon",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.866749",
+    "Longitude": "127.121143",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

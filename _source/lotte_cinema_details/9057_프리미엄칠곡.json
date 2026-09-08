@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "대구 북구 학정로 422 (구암동) 5층",
+    "BusMap": "704, 706, 726, 937, 북구1, 칠곡2, 급행2번",
+    "SubWayMap": "3호선 팔거역(국립농관원, 통계청) : 1번, 4번출구 도보 5분 (1번출구 도보 우측 500미터 > 전방 횡단보도 이용 > 우측 도보 200미터(횡단보도 1회 이용) > 좌측 건물 진입 후 엘리베이터 이용 5층)",
+    "MyCarMap": "팔달교 → 칠곡네거리 → 칠곡홈플러스방면 → 롯데시네마 칠곡\r\n칠곡IC → 칠곡네거리 → 칠곡홈플러스방면 → 롯데시네마 칠곡\r\n신천대로 → 국우터널 → 50사단앞 좌회전 → 롯데시네마 칠곡\r\n다부,동면 → 진흥교방면 → 칠곡홈플러스방면 → 롯데시네마 칠곡",
+    "ParkingInfo": "건물 내 지하 주차장 : 무인 정산 시스템으로 변경 됨에 따라 반드시 매표소에서 주차 등록을 하셔야 무료 이용이 가능합니다. 매표에서 주차 등록 시 입차시간부터 3시간 무료 주차 가능. 3시간 초과 시 10분당 1,000원, 카드 결제만 가능. 영화 시간이 지난 티켓에 대해선 시간 변경 및 환불이 불가합니다.",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 484,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0005",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9057,
+    "CinemaNameKR": "프리미엄칠곡",
+    "CinemaNameUS": "Chilgok",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.9422967",
+    "Longitude": "128.5639207",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

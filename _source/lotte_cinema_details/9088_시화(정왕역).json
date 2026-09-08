@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 시흥시 마유로 418번길 10 (정왕동) 3층",
+    "BusMap": "7, 20-1, 25, 26, 26-1, 28, 29, 30, 70\r\n평일 11-A(출퇴근버스)\r\n정왕역 정면, 롯데시네마 시화관 (이마트방향) 뒷편 하차",
+    "SubWayMap": "4호선 정왕역 : 1번출구 (전방 횡단보도 이용 > 우측 도보 50미터 > 좌측 건물 진입 후 엘리베이터 이용 3층)",
+    "MyCarMap": "소방서 사거리에서 정왕역 방면 직진 후 정왕역 1번 출구 방향 우회전 →\r\n지하주차장 좌측 출입구(영화관 전용 주차장)로 진입",
+    "ParkingInfo": "ㆍ롯데시네마 시화(정왕역)의 건물 지하주차장 입출구는 롯데리아가 보이는 좌측 통로 입니다. (우측 모박사 부대찌게가 보이는 입출구는 옆 건물로 들어가는 곳이니 주의 바랍니다.)\r\nㆍ건물 지하주차장 만차 시 외부주차장을 이용 바랍니다. (T맵, 카카오내비에서 롯데시네마 시화 검색 시 주소 확인 가능)\r\nㆍ영화관람시, 3층 매표/매점에서 주차등록 필수, 입차시간부터 최대 3시간 무료, 옆 건물 불가) 만차 시 건물 반대편 (정왕역 반대쪽, 파리바게트 라인쪽) 외부 주차장 이용\r\nㆍ주차장이 협소하오니 가급적 대중교통 이용을 부탁드립니다.",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 524,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9088,
+    "CinemaNameKR": "시화(정왕역)",
+    "CinemaNameUS": "Sihwa",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.351296",
+    "Longitude": "126.741786",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

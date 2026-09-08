@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 군포시 번영로 485 (산본동)",
+    "BusMap": "산본역 정류장 : 일반 11-2, 15-2, 30, 31, 32B, 55, 87, 88 / 직행 3030, 3500, 6501 / 마을 1, 2, 3, 3-1, 5, 6-1, 9, 10\r\n6단지 세종 정류장 : 일반 30, / 마을 2, 3-1, 6-1, 7\r\n군포시청 정류장 : 일반 15-2, 30, 31, 32B, 55, 87 / 지선 5530 / 직행 3030, 3101, 3500 6501, 8000 / 마을 1, 2, 3, 6, 6-1, 9 ",
+    "SubWayMap": "피트인 영업시간 내 : 산본역 하차 > 2번 출구 > 좌측 서부사거리 방면 도보 70M > 건너편 피트인산본점 1층 스타벅스 옆 출입구 > 엘리베이터 이용 (9층)",
+    "MyCarMap": "네비게이션 검색 : 롯데시네마 산본피트인\r\n도로명 주소 : 경기도 군포시 산본동 번영로 485\r\n주말 및 공휴일의 경우 주차 지연으로 대기가 길어질 수 있으니 평일보다 여유롭게 출발하시기 바랍니다. (주차 지연으로 인한 교환/환불 불가)",
+    "ParkingInfo": "영화 관람 시 3시간 무료 주차(입차시간 기준) : 피트인매장 구매 시 구매금액별 합산 가능\r\n주차 정산 : 무인정산기 사전 정산 후 출차\r\n무인 정산기 위치 : 9층 엔제리너스 옆 / B1층~B4층 엘리베이터 옆",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 980,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3031,
+    "CinemaNameKR": "산본피트인",
+    "CinemaNameUS": "Sanbon Fitin",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.3578659",
+    "Longitude": "126.9306507",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

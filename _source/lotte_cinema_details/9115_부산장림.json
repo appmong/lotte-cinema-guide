@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "960"
+    ],
+    "CinemaIntro": "",
+    "Address": "부산광역시 사하구 장림번영로 97 6층 롯데시네마 부산장림",
+    "BusMap": "ㆍ일반, 급행버스 : 2, 11, 161, 338, 1000(급행)\r\nㆍ마을버스 : 사하구3, 사하구5\r\n→ 장림초등학교 정류장 하차 후 멀티플렉스더세븐 건물 진입 후 엘리베이터 이용 6층",
+    "SubWayMap": "1호선 장림역 1번 출구 → 장림시장 방면 도보 1분 직진 멀티플렉스더세븐 건물 진입 후 엘리베이터 이용 6층",
+    "MyCarMap": "부산광역시 사하구 장림번영로 97 → 지하주차장 1,2층 주차 후 영화관 전용 엘리베이터 이용 6층\r\n차량높이 2.1M 이상 진입 불가",
+    "ParkingInfo": "★★★★★ 영화관람 시 4시간 주차 무료 ★★★★★\r\n\r\n★ 롯데시네마 부산장림 주차 기본 안내 ★\r\n1. 차량 높이 2.1M 이상 진입 불가\r\n2. 매점만 이용 시 무료 주차 불가\r\n3. 입차 시 최초 10분 무료(회차 차량)\r\n\r\n★ 롯데시네마 부산장림 주차 중요 안내 ★\r\n1. 영화 관람 전,후 주차 셀프 인증 필수 (입차 후 11분 이후부터 셀프 인증 가능)\r\n2. 주차 미인증 출차 시 주차요금 많이 부과 됩니다.\r\n3. 미인증으로 인한 주차요금 발생 시 환불 불가!!!\r\n\r\n★ 주차 인증 기기 장소 ★\r\n1. 6층 홀 티켓/매점 키오스크 옆(주차 인증 전용 기기(블루색상))\r\n2. 바코드 인증 형식 기기 2대(블루색상)\r\n\r\n★ 주차 4시간 인증 방법 ★\r\n1. 바코드를 통한 주차 셀프 인증\r\n2. 지류티켓 : 티켓 하단 마지막 바코드 확인\r\n3. 모바일 티켓 : 모바일 티켓 상단 주차권 터치 후 바코드 확인 (단, 모바일 티켓의 주차권은 영화시간 30분 전 확인 가능)\r\n4. 바코드는 1회만 사용 가능\r\n5. 바코드 인식 후 결재금액 '0원'이면 무료 주차 4시간 인증 완료!!!",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 676,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0101",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9115,
+    "CinemaNameKR": "부산장림",
+    "CinemaNameUS": "Janglim",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.080856",
+    "Longitude": "128.975765",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

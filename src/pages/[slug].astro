@@ -1,0 +1,85 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { CINEMAS, getCinema, nearby } from "../lib/cinemas";
+import { SITE, OFFICIAL, DISCLAIMER } from "../site.config";
+
+export function getStaticPaths() {
+  return CINEMAS.map((c) => ({ params: { slug: c.slug } }));
+}
+
+const { slug } = Astro.params;
+const cinema = getCinema(slug!)!;
+const near = nearby(cinema, 6);
+
+const jsonLd: Record<string, unknown>[] = [
+  {
+    "@context": "https://schema.org",
+    "@type": "MovieTheater",
+    name: `${cinema.name} 롯데시네마`,
+    address: { "@type": "PostalAddress", streetAddress: cinema.address, addressCountry: "KR" },
+    ...(cinema.lat && cinema.lng
+      ? { geo: { "@type": "GeoCoordinates", latitude: cinema.lat, longitude: cinema.lng } }
+      : {}),
+    url: new URL(cinema.url, SITE.url).href,
+    ...(cinema.screenCount ? { amenityFeature: { "@type": "LocationFeatureSpecification", name: "상영관 수", value: cinema.screenCount } } : {}),
+    isAccessibleForFree: false,
+    parentOrganization: { "@type": "Organization", name: "롯데시네마" },
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "전국 롯데시네마", item: new URL("/", SITE.url).href },
+      { "@type": "ListItem", position: 2, name: cinema.region, item: new URL(`/지역/${cinema.region}/`, SITE.url).href },
+      { "@type": "ListItem", position: 3, name: cinema.name, item: new URL(cinema.url, SITE.url).href },
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title={cinema.title}
+  description={cinema.description}
+  canonicalPath={cinema.url}
+  jsonLd={jsonLd}
+>
+  <div class="reading">
+    <nav class="breadcrumb-bar" aria-label="위치 경로">
+      <a href="/">전국 롯데시네마</a> ›
+      <a href={`/지역/${cinema.region}/`}>{cinema.region}</a> ›
+      <span>{cinema.name}</span>
+    </nav>
+
+    <div class="cinema-facts">
+      <span class="fact">{cinema.region}</span>
+      {cinema.screenCount && <span class="fact">{cinema.screenCount}개관</span>}
+      {cinema.seatCount && <span class="fact">{cinema.seatCount}석</span>}
+    </div>
+
+    {/* 기존 WP 본문 그대로 (제목·CTA·지도·표·FAQ 포함) */}
+    <article class="lc-body" set:html={cinema.bodyHtml} />
+
+    <div class="disclaimer">
+      <strong>안내</strong> — {DISCLAIMER}
+      <div style="margin-top:10px;display:flex;gap:8px;flex-wrap:wrap">
+        <a class="btn" href={OFFICIAL.schedule} target="_blank" rel="nofollow noopener">공식 상영시간표</a>
+        <a class="btn ghost" href={OFFICIAL.ticketing} target="_blank" rel="nofollow noopener">공식 예매</a>
+      </div>
+    </div>
+
+    {near.length > 0 && (
+      <section class="section" style="margin-top:28px">
+        <h2 class="section-title">가까운 롯데시네마</h2>
+        <div class="nearby">
+          {near.map((n) => (
+            <a href={n.url}>{n.name}<span class="muted small"> · {n.region}</span></a>
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  .reading { max-width: 820px; margin: 0 auto; padding: 0 20px 8px; }
+</style>

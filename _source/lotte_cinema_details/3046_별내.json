@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 남양주시 별내중앙로 10 (별내동)",
+    "BusMap": "별내상업지구 정류장(100m) \r\n - 마을버스: 80, 85-1, 땡큐85, 땡큐20\r\n - 일반버스: 81\r\n별내역 2번출구, 이마트 정류장(280m) \r\n - 일반버스: 땡큐30, 땡큐50",
+    "SubWayMap": "경춘선 별내역 2번출구(350m) 인근 도보 5분 거리 아이플레이스 건물 지하 2층 위치",
+    "MyCarMap": "경기도 남양주시 별내중앙로10 아이파크 스위트 : 아이플레이스 지하 2층 위치 / 네비게이션 [롯데시네마 별내] 검색",
+    "ParkingInfo": "<strong class=\"tit\">[주차 이용 안내]</strong> : 본 건물 지상 1~3층 이용 / 입ㆍ 출차 시 1층 GATE 2번 이용 \r\n<strong class=\"tit\">[주차 정산]</strong> : 주차정산 무인화 운영 / 스위트샵(매점)에서 차량번호 등록필요 (직원요청) / 입차시간 기준 영화관 최대 3시간 무료인증가능(3시간 초과시 30분당 1,000원 별도 부과) / 상가 내 타 매장 무료 주차시간과 합산 가능(단, 해당 합산은 이용 매장에 별도 문의) / 미정산시 주차요금이 부과되며, 주차요금은 환불이 불가하니 반드시 차량번호 인증 후 출차 바랍니다.\r\n<strong class=\"tit\">[유의 사항]</strong> : 주차공간이 협소하므로, 가급적 대중교통 이용을 권장드립니다.",
+    "TotalScreenCount": 5,
+    "TotalSeatCount": 775,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3046,
+    "CinemaNameKR": "별내",
+    "CinemaNameUS": "Byulnae",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.644759",
+    "Longitude": "127.127372",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

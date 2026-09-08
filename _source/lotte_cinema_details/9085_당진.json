@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "986"
+    ],
+    "CinemaIntro": "",
+    "Address": "충남 당진시 시청2로 49-19 (수청동) 시네마타워 7~9층(매표/매점7층)",
+    "BusMap": "순환버스 1,2,3,4,5,6,11,12,15,16,20\r\n시내버스 500,510,520,530,531,551,552,553,554,556",
+    "SubWayMap": "",
+    "MyCarMap": "충남 당진시 수청동 1041 [롯데시네마 당진] 검색",
+    "ParkingInfo": "주차장위치: 건물 내 지하 1층 ~ 5층\r\n무료주차 : 영화관람고객 3시간 무료(초과 시 30분당 1,000원 부과)\r\n정산방법 : 7층 매표소에서 정산",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 704,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0003",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9085,
+    "CinemaNameKR": "당진",
+    "CinemaNameUS": "dangjin",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "36.8869932",
+    "Longitude": "126.6466231",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

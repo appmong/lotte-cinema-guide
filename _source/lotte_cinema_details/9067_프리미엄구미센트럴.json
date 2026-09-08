@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경북 구미시 원평동 구미중앙로 17길 16 (매표 / 매점 3층)",
+    "BusMap": "구미 지역 전 노선 이용 가능\r\n대구은행역에서 하차 후 구미역 방면으로 150m 직진 후 GS 편의점 우측 방면 150m 직진, 우측 원평프라자 3층",
+    "SubWayMap": "",
+    "MyCarMap": "건물 타워 주차장 및 벧엘 주차장 이용 가능",
+    "ParkingInfo": "당일 영화 티켓 지참 시 3시간 무료 주차 가능( 벧엘 주차장의 경우 티켓요금 13,000원 이상 결제 확인시 가능)\r\n단, 조조영화/문화가 있는날/ 통신사 무료 예매의 경우 벧엘 주차장 지원이 불가합니다.\r\n3시간 이후에는 30분당 1,000원 추가 금액 발생\r\n타워 주차장의 경우, 입/출차 시간의 지연이 있을 수 있으며, 전체적으로 주차 공간이 협소하니 대중 교통 이용을 권장\r\n주차 지연으로 인한 티켓 교환/환불 불가\r\n주차 확인은 매표/매점 운영시간 내에서만 가능( 매표/매점 운영시간 : 마지막 영화 시작 전까지)\r\n주차 미확인 출차 후 주차요금 환불 불가(각 주차장에서 주차증 수령 후 도장 날인)",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 513,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0005",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9067,
+    "CinemaNameKR": "프리미엄구미센트럴",
+    "CinemaNameUS": "Gumicentral",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "36.129019",
+    "Longitude": "128.334772",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

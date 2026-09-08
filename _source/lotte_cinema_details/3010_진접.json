@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 남양주시 진접읍 해밀예당1로 36 (금곡리, 래일스타 9층)",
+    "BusMap": "버스정류장 : [ 남양휴튼아파트.진접우체국.풍양보건소입구 ] 하차\r\n<font color=green>일반 5-1번 일반 10번 일반 71번 일반 91번 일반 92번 일반 80번 \r\n<font color=red>급행 105번 급행 8012번\r\n<font color=purple>땡큐 31번 땡큐 60번",
+    "SubWayMap": "<font color=blue> [ 수도권 지하철 4호선 \"오남역\" ] : 오남역 1번출구 북서방향 직선거리 900m_도보 15분 ",
+    "MyCarMap": "경기도 남양주시 진접읍 해밀예당1로 36 (금곡리, 래일스타 9층)\r\n네비게이션 검색 <font color=red> [ 롯데시네마 진접 ]",
+    "ParkingInfo": "영화관람 고객 <font color=red> [ 3시간 무료주차 ] : 3시간 초과 시 [ 15분당 1,000원 ] 발생\r\n<font color=red>주차권 소지 후 9층 스위트샵(매점) 방문 후 주차인증 가능 : 티켓바코드 주차 인증 불가하며 반드시 매점 방문하여 인증 필요\r\n<font color=red>건물 지하 주차장이 협소하오니 대중교통 이용을 부탁드립니다.",
+    "TotalScreenCount": 3,
+    "TotalSeatCount": 328,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3010,
+    "CinemaNameKR": "진접",
+    "CinemaNameUS": "Jinjeop",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.7119934",
+    "Longitude": "127.1866307",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

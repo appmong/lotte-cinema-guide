@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "서울 관악구 남부순환로 1820 (봉천동)",
+    "BusMap": "9-3번,461번,501번,506번,641번,750번,5413번,5512번,5513번,5514번,5515번,5521번,5528번,5530번\r\n[서울대입구역 5번출구 정류장 하차시]: 건너편(3,4번출구쪽) 에그옐로우 건물 진입 후 엘리베이터 이용 10층\r\n[관악구청 정류장 하차시] : 서울대입구역 방면으로 직진300m(도보3분) 내 도착 >에그옐로우 건물 진입 후 엘리베이터 이용 10층\r\n[봉천사거리 정류장 하차시] : 서울대입구역 방면으로 직진120m(도보2분) 내 도착 >에그옐로우 건물 진입 후 엘리베이터 이용 10층\r\n이외 버스 정류장 하차시 : 서울대입구역 사거리 > 3,4번 출구쪽 에그옐로우 건물 10층\r\n안내되어 있는 버스의 노선 변경 등에 따라 오시는길이 변경될 수 있습니다.\r\n출발 전 버스노선을 반드시 확인해주세요.",
+    "SubWayMap": "[아울렛 영업 시간 외] : 2호선 서울대입구역 3번,4번 출구 앞 에그옐로우(라붐아울렛) 건물 진입 후 엘리베이터 이용 10층\r\n[아울렛 영업 시간 내] : 2호선 서울대입구역 3번,4번 출구쪽 아울렛 연결 통로 진입 후 엘리베이터 이용 10층",
+    "MyCarMap": "[네비게이션 이용] : 서울특별시 관악구 남부순환로 1820 또는 롯데시네마 서울대입구관 검색 ",
+    "ParkingInfo": "영화관람 시 입차시간부터 3시간 무료 주차 가능\r\n<font color=red>10층 주차정산용 태블릿에서 차량번호 인증 필수 (미인증 출차 시 혜택 제공 불가)\r\n무료 주차시간 초과 시 15분당 1,000원 추가 요금 발생\r\n<font color=red>토,일,공휴일은 만차가 우려되오니 가급적 대중교통을 이용해 주시기 바랍니다.",
+    "TotalScreenCount": 5,
+    "TotalSeatCount": 687,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0001",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 1012,
+    "CinemaNameKR": "서울대입구",
+    "CinemaNameUS": "Seoul Nat'l Univ Station",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.4809309",
+    "Longitude": "126.9520777",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

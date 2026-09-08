@@ -1,0 +1,93 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { CINEMAS, byRegion } from "../lib/cinemas";
+import { SITE, OFFICIAL, DISCLAIMER } from "../site.config";
+
+const groups = byRegion();
+const total = CINEMAS.length;
+
+const jsonLd: Record<string, unknown>[] = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: SITE.name,
+    url: SITE.url,
+    inLanguage: "ko-KR",
+    potentialAction: {
+      "@type": "SearchAction",
+      target: `${SITE.url}/?q={query}`,
+      "query-input": "required name=query",
+    },
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: SITE.name,
+    url: SITE.url,
+    description: SITE.description,
+  },
+];
+---
+
+<BaseLayout jsonLd={jsonLd} canonicalPath="/">
+  <section class="hero">
+    <h1>전국 롯데시네마 상영시간표</h1>
+    <p>전국 {total}개 롯데시네마 지점의 위치·오시는 길·주차·예매·관람료 정보를 정리했습니다. 실시간 상영시간표는 공식 홈페이지로 바로 연결됩니다.</p>
+
+    <div class="hero-search">
+      <button type="button" data-search-open>
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"></circle>
+          <path d="M20 20 L16 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+        </svg>
+        지점명·지역으로 검색 (예: 가양, 부산, 강남)
+        <span class="kbd">Ctrl K</span>
+      </button>
+    </div>
+
+    <nav class="region-chips" aria-label="지역 바로가기">
+      {groups.map((g) => (
+        <a href={`/지역/${g.region}/`}>{g.region} <span style="opacity:.7">{g.cinemas.length}</span></a>
+      ))}
+    </nav>
+  </section>
+
+  <div class="container-wide">
+    <section class="section" style="margin-top:28px">
+      <p class="muted small" style="margin:0 0 4px">
+        롯데시네마 상영시간표는 요일·성수기에 따라 자주 바뀌므로, 방문 전 공식 채널에서 다시 확인하는 것이 좋습니다.
+        아래에서 지역을 선택하면 지점별 상세 안내(위치·주차·예매·가격·FAQ)를 볼 수 있습니다.
+      </p>
+      <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px">
+        <a class="btn" href={OFFICIAL.schedule} target="_blank" rel="nofollow noopener">공식 상영시간표 바로가기</a>
+        <a class="btn ghost" href={OFFICIAL.ticketing} target="_blank" rel="nofollow noopener">공식 예매</a>
+      </div>
+    </section>
+
+    {groups.map((g) => (
+      <section class="region-block" id={g.region}>
+        <div class="region-head">
+          <h2>{g.region}</h2>
+          <span class="count">{g.cinemas.length}개 지점</span>
+          <a class="more" href={`/지역/${g.region}/`}>{g.region} 전체 →</a>
+        </div>
+        <div class="cinema-grid">
+          {g.cinemas.map((c) => (
+            <a class="cinema-card" href={c.url}>
+              <div class="cc-name">{c.name}</div>
+              <div class="cc-addr">{c.address}</div>
+              <div class="cc-meta">
+                {c.screenCount && <span>{c.screenCount}개관</span>}
+                {c.seatCount && <span>{c.seatCount}석</span>}
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <div class="disclaimer" style="margin-bottom:32px">
+      <strong>안내</strong> — {DISCLAIMER}
+    </div>
+  </div>
+</BaseLayout>

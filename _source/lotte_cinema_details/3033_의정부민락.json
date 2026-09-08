@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "200"
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 의정부시 천보로 44 (민락동) 8층-9층",
+    "BusMap": "산들마을 2단지 정거장 하차\r\n일반버스 : 3, 10-1, 35, 72-1\r\n마을버스 : 205-1, 206, 206-3\r\n광역버스 : 3600, G6000",
+    "SubWayMap": "의정부 경전철 어룡역 1번 출구로 나와 우측으로 800m직진 후 좌측 대로변 방향으로 300m(해동타워 8층 롯데시네마 의정부민락관)",
+    "MyCarMap": "의정부역방향에서 오실 경우 : 의정부역동부교차로에서 양주, 경찰서, 경기도교육청북부청사 방면으로 좌회전 하신 후 파발교차로 방향으로 이동, 금신지하차도 진입 후 호국로를 따라 2.5km 이동 후 남양주,곤제역 방면으로 우회전하시어 천보로를 따라 2km이동 후 민락시티프라자 건물을 끼고 우회전하시면 됩니다.\r\n도봉방향에서 오실 경우 : 경기도청북부청사, 의정부IC 방면으로 우회전하시어 평화로를 따라 350m 이동, 롯데아파트앞에서 포천.남양주, 경기도청북부청사, 의정부IC 방면으로 우회전하시어 1km 직진 후 장암교차로에서 동두천, 양주, 포천, 의정부교도소방면으로 우측 국도대체우회도로를 따라 5km 이동 후 좌회전하시어 400m 직진하시면 됩니다.\r\n포천방향에서 오실 경우 : 호국로를 따라 직진 후 남양주, 곤제역, 의정부IC 방면으로 좌회전하시어 천보로를 따라 2Km 이동 후, 민락시티프라자 건물을 끼고 우회전하시면 됩니다.\r\n주차 안내 : 건물 지하 2층에서 5층까지 주차 가능, 당일티켓 지참 후 8층 박스오피스에서 차량 번호 셀프 등록 시 상영시간과 관계없이 3시간 무료주차",
+    "ParkingInfo": "영화 상영시간과 관계 없이 최대 3시간 무료 주차 가능\r\n건물 내 입점업체 시간 합산 불가\r\n무료주차 3시간 초과 시 30분까지 2,000원 이후 10분당 700원 요금 발생\r\n주차 요금은 지하2,3층 사전 정산기 또는 차량 출차 시 카드로 요금 결제 가능\r\n무료 주차 인증 및 출차 후 재입차시 무료주차 재인증 불가\r\n주차공간이 협소하여 가급적 대중교통 이용을 권장합니다.\r\n고객님의 귀책사유로 인한 차량 미등록 시 환불은 불가하오니, 지하 2,3층 사전 정산기에서 반드시 등록 부탁드립니다. (자세한사항은  직원에게 문의해주세요)\r\n",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 902,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3033,
+    "CinemaNameKR": "의정부민락",
+    "CinemaNameUS": "Uijeongbu Minrak",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.744266",
+    "Longitude": "127.096336",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

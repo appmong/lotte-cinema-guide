@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기도 수원시 권선구 금곡로 219 (금곡동)",
+    "BusMap": "[홈플러스 서수원점 정거장에서 하차] : 도보 1분 이동 → 스타벅스 우측 리더스빌딩 출입문 이용 → 엘리베이터 이용하여 9~10층 이동\r\n[일반버스] : 13, 13-1, 13-4, 15-1, 19, 62-1, 7, 9, 99\r\n[직행버스] : 7800, 8000\r\n[광역버스] : M5443",
+    "SubWayMap": "",
+    "MyCarMap": "[네비게이션 검색] : 롯데시네마 서수원(수원시 권선구 금곡동 1114-1 리더스빌딩)\r\n[주차장 이용 방법] : 리더스빌딩 뒤쪽 주차장 입구 → B1~B3층 주차 후 엘리베이터 이용하여 9~10층 이동\r\n※ 리더스빌딩 주차 만차 시 딜라이트2 주차타워(농협/롯데리아 입점건물) 주차 가능",
+    "ParkingInfo": "[주차 요금 안내]\r\n영화 관람 당일 주차 등록 시 3시간 무료 : 무료제공 시간 경과 시 최초 30분 1,000원 / 초과 시 10분당 500원 요금 추가\r\n[주차 등록 안내]\r\n관람영화 입장 시 10층 스위트샵(매점)에 비치된 태블릿에 차량번호 4자리 입력 : 미등록 시 정상 주차요금 부과",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 791,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3043,
+    "CinemaNameKR": "서수원",
+    "CinemaNameUS": "Seosuwon",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.274956",
+    "Longitude": "126.954133",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

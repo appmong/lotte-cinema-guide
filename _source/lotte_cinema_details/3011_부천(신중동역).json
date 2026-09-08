@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 부천시 길주로 280 (중동)",
+    "BusMap": "<strong class=\"tit\">신중동역 3,4번출구,롯데백화점 하차 > 도보 200미터 이동 > 퍼스트롯데시네마빌딩 진입 > 8층 롯데시네마 부천 입구</strong>\r\n은하쌍용아파트방면 5-3, 23, 23-1, 23-2, 52, 56, 58-2, 59, 59-1, 61, 66, 77-1, 673, 1300, 1301, 1302, 1601, 700\r\n원미경찰서/롯데백화점 방면 5-3, 6, 23, 23-1, 23-2, 52, 56, 58-2, 59, 59-1, 61, 66, 77-1, 673, 700",
+    "SubWayMap": "<strong class=\"tit\">[7호선 신중동역]</strong> : 3번 출구 > 도보 직진 300미터 > 퍼스트롯데시네마빌딩 진입 > 8층 롯데시네마 부천 입구",
+    "MyCarMap": "<strong class=\"tit\">[내비게이션 주소]</strong> : 경기도 부천시 길주로 280, 롯데시네마 부천\r\n<strong class=\"tit\">[주차장 이용 안내]</strong> :  지하 2층 ~ 5층 주차 가능\r\n주차장이 협소한 관계로 혼잡한 시간대 및 주말/공휴일은 가급적 대중교통 이용을 권장합니다.",
+    "ParkingInfo": "<strong class=\"tit\">[주차 할인]</strong> : 영화 관람 후 8층 매표소/스위트샵에서 차량번호 등록 후 3시간 무료 주차 적용 가능 (최초 30분 1,500원 / 이후 30분마다 1,000원)",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 1297,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3011,
+    "CinemaNameKR": "부천(신중동역)",
+    "CinemaNameUS": "Bucheon",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.50283947633091",
+    "Longitude": "126.77318701410574",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "서울 금천구 시흥대로 399 (독산동)",
+    "BusMap": "[금천 우체국 정류장 하차]\r\n간선버스 :150, 500, 505, 652\r\n지선버스 :5530, 5531, 5537, 5617, 5618, 5621, 5623, 5625, 5626, 5627, 5630, 5634, 5713\r\n직행버스 : 5609\r\n일반버스 :1, 5, 9, 9-3, 51, 388, 900, 5602\r\n마을버스 :금천08\r\n[홈플러스 금천점 정류장 하차]\r\n지선버스 :5535, 5537, 5627, 5630",
+    "SubWayMap": "1호선 독산역 :1번 출구 (전방 횡단보도 이용 > 도보 직진 700미터 > 말미사거리에서 좌측으로 도보 300미터 직진> 시티렉스 건물 6층)\r\n2호선 구로디지털단지역 :1번 출구 (안양방면 버스 이용 5분 거리)",
+    "MyCarMap": "서울특별시 금천구 시흥대로 399 시티렉스 6층 롯데시네마 독산 :네비게이션 이용 시 통합검색 \"시티렉스\" 이용",
+    "ParkingInfo": "당일 관람 티켓 제시시 3시간 무료 (초과시 10분당 500원)\r\n<font color=red>주차공간이 매우 협소하므로 가급적 대중교통을 이용해주시기 바랍니다.",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 1606,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0001",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 1017,
+    "CinemaNameKR": "독산",
+    "CinemaNameUS": "Doksan",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.4694106",
+    "Longitude": "126.8974623",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

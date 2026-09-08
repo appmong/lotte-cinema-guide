@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "901"
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 용인시 기흥구 기흥역로 63 5층",
+    "BusMap": "[기흥역 하차] : 기흥역 시외버스 정류소 앞 방면, 수인분당선/에버라인 지상 4번출구 앞  → 스타벅스 옆 AK&기흥 게이트 이용 → Vollkorn(폴콘) 옆 엘리베이터 이용하여 5층 이동",
+    "SubWayMap": "[쇼핑몰 영업시간 내] : 수인분당선/에버라인 기흥역 지하 3,4번 출구 방향 AK&기흥 B1층 직접 연결 → B1층 올리브영 맞은편 엘리베이터 이용하여 5층 이동\r\n[쇼핑몰 영업시간 외] : 수인분당선/에버라인 기흥역 지상 3,4번 출구 이용 → 스타벅스 옆 AK&기흥 게이트 이용 → Vollkorn(폴콘) 카페 옆 엘리베이터 이용하여 5층 이동",
+    "MyCarMap": "[네비게이션 검색] : 롯데시네마 용인기흥(용인시 기흥구 기흥역로 63)\r\n[주차장 이용 방법] : B2층 주차장 기둥 알파벳 A~E구역 인근 주차 / 기둥 알파벳 C5~C6 앞 엘리베이터 이용하여 5층 이동 ※ B1층은 기흥역 환승 주차장으로 무료 주차 미적용",
+    "ParkingInfo": "[주차 요금 안내]\r\n영화 관람 당일 주차 등록 시 3시간 무료 : 초과 시 10분당 1,000원 / AK&기흥 구매 금액 합산 시 최대 5시간 30분주차\r\n출차 후 재입차시에도 일일 최대 무료 주차는 5시간 30분 까지만 가능 : 하루 2편 이상 관람시에도 무료 주차 5시간 30분 까지만 가능 / 영화 상영 시간에 따라 추가 주차 등록이 필요하신 경우 직원에게 문의\r\n[주차 등록 안내] : 관람영화 입장 시 입장로에 비치된 태블릿에 차량번호 4자리 입력 후 할인 코드 적용 / 미등록 시 정상 주차요금 부과",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 1091,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3039,
+    "CinemaNameKR": "용인기흥",
+    "CinemaNameUS": "Yongin Giheung",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.274688",
+    "Longitude": "127.116523",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

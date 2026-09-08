@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경남 창원시 진해구 진해대로 752 (석동)",
+    "BusMap": "- 롯데마트 정류장 하차 300m 도보 이동\r\n- 안민터널 정류장 하차\r\n",
+    "SubWayMap": "",
+    "MyCarMap": "[내비게이션 검색]<br>롯데시네마 진해(경남 창원시 진해구 진해대로 752)\r\n안민터널(진해방향) 통과 후 3호광장 사거리 지나 첫번째 우회전",
+    "ParkingInfo": "주차공간 100대 (주차 공간이 협소하므로 대중교통 이용 바랍니다.)\r\n출차 전 4층 인포메이션(매표소)에서 3시간 주차 할인 인증 후 출차 (미인증 시 주차료 부과됩니다.)\r\n본 건물 주차장은 무인시스템으로 주차장에서 영화티켓으로 3시간 할인 적용할 수 없으며 비용은 카드 결제만 가능한 점 양해바랍니다.",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 952,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0101",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 5009,
+    "CinemaNameKR": "진해",
+    "CinemaNameUS": "Jinhae",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.1587974",
+    "Longitude": "128.6974327",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

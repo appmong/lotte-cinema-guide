@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "서울 강북구 도봉로 308 (번동)",
+    "BusMap": "간선 :101번,106번,107번,108번,120번,130번,140번,141번,142번,148번,150번,153번,160번\r\n지선 :1138번,1165번,1218번",
+    "SubWayMap": "수유역 4번출구 도보 5분",
+    "MyCarMap": "서울시 강북구 도봉로 308(번동 449-1) 10~14층",
+    "ParkingInfo": "10층 매점에서 주차권(2시간권) 수령",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 852,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0001",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9104,
+    "CinemaNameKR": "수유",
+    "CinemaNameUS": "Suyu",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.635805",
+    "Longitude": "127.023751",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

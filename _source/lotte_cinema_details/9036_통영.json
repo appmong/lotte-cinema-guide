@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경남 통영시 무전동,986번지",
+    "BusMap": "537, 502, 202, 143, 502, 402, 601, 536, 100, 600번 ",
+    "SubWayMap": "",
+    "MyCarMap": "부산/마산 방면 : 내서 IC경유 -마산 예곡 5번국도 - 진동 배둔 14번국도- 고성IC · 통영 IC- 통영(5분 소요)\r\n진주 방면 : 진주 - 통영 대전간 고속도록 이용 - 통영(30분소요)\r\n거제방면 :  14번 국도 이용 - 통영 (20분 소요)",
+    "ParkingInfo": "영화관 이용고객 3시간 무료주차 \r\n335대 주차가능",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 858,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0101",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9036,
+    "CinemaNameKR": "통영",
+    "CinemaNameUS": "Tongyeong",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "34.8591516070785",
+    "Longitude": "128.430299395001",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

@@ -1,0 +1,29 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE, DISCLAIMER } from "../site.config";
+---
+
+<BaseLayout title="이용약관" description={`${SITE.name} 이용약관`} canonicalPath="/terms/">
+  <div class="reading">
+    <nav class="breadcrumb-bar"><a href="/">홈</a> › <span>이용약관</span></nav>
+    <h1 class="section-title" style="margin-top:12px">이용약관</h1>
+    <div class="prose">
+      <h2>1. 목적</h2>
+      <p>본 약관은 {SITE.name}(이하 “사이트”)이 제공하는 정보 서비스의 이용 조건을 규정합니다.</p>
+
+      <h2>2. 정보의 성격</h2>
+      <p>사이트가 제공하는 지점 정보는 참고용이며, 정확성·최신성을 보장하지 않습니다. 상영시간표·요금·주차 등 실제 정보는 롯데시네마 공식 채널에서 확인해야 합니다.</p>
+
+      <h2>3. 비공식 안내</h2>
+      <p>{DISCLAIMER}</p>
+
+      <h2>4. 책임의 한계</h2>
+      <p>사이트는 정보 이용으로 발생한 손해에 대해 책임을 지지 않습니다. 외부 링크로 연결된 사이트의 내용에 대해서도 책임을 지지 않습니다.</p>
+
+      <h2>5. 저작권</h2>
+      <p>사이트의 편집 저작물(정리된 안내 문구·구성)에 대한 권리는 사이트에 있습니다. ‘롯데시네마’ 등 명칭·상표의 권리는 각 권리자에게 있습니다.</p>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>.reading{max-width:820px;margin:0 auto;padding:0 20px 8px;}</style>

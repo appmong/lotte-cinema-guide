@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 안성시 공도읍 서동대로 4478, 1층 롯데시네마 안성",
+    "BusMap": "버스로 오시는 길 안내입니다.\r\n1호선 평택역 1번출구로 나오셔서 평택 시외버스터미널(시내) 정류소에서 70, 50, 380번 버스를 승차 하시고 롯데마트 안성점에서 하차하시면 됩니다.",
+    "SubWayMap": "",
+    "MyCarMap": "<자가용으로 오시는 길>\r\n내비게이션에서 목적지를 경기도 안성시 공도읍 서동대로 4478 (양기리, 롯데마트 1층)으로 지정하여 오시면 됩니다.\r\n\r\n<주차 안내>\r\n롯데마트 진입로 첫번째 주차장은 2층 주차장이며 안쪽까지 언덕 내려오시면 1층 주차장이 있습니다.\r\n21시 이후 상영되는 영화를 관람하시는 경우, 23시 롯데마트 폐점으로 2층 주차장 출입에 불편이 있습니다. \r\n1층 주차장을 이용하시는 것을 추천 드립니다.\r\n\r\n주차 요금은 정산 없이 출차 가능합니다.",
+    "ParkingInfo": "",
+    "TotalScreenCount": 2,
+    "TotalSeatCount": 164,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9106,
+    "CinemaNameKR": "안성",
+    "CinemaNameUS": "anseong",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.007508",
+    "Longitude": "127.199492",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

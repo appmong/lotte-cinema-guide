@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "200"
+    ],
+    "CinemaIntro": "",
+    "Address": "충청남도 서산시 율지18로 38",
+    "BusMap": "시내 순환버스 이용: 의료원사거리 부근 하차",
+    "SubWayMap": "",
+    "MyCarMap": "서산의료원 사거리에서 당진방향으로,150m앞 첫 신호에서 먹거리골로 좌회전(좌회전 신호대기 시, 먹거리골 광고판 뒷편 은색 영화관건물 보임)\r\n당진 및 서산IC방면 : 서산시내방면으로 계속직진->서산중앙병원->순복음교회->우측에 르셀쇼핑단지 지나 300m 앞 사거리에서 먹거리골로 우회전\r\n홍성 및 해미IC방면 : 서산시내방면으로 계속직진->서산의료원 사거리에서 당진방향으로 우회전 후, 150m앞 첫 신호에서 먹거리골로 좌회전",
+    "ParkingInfo": "영화관 정문 지상1층 및 지하주차장 이용(무료)\r\n중앙 스크린 골프존 옆 영화관 전용 주차장 이용(무료)",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 945,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0003",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9044,
+    "CinemaNameKR": "서산",
+    "CinemaNameUS": "Seosan",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "36.77885508661173",
+    "Longitude": "126.46566737374354",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

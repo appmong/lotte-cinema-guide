@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "200"
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 수원시 장안구 천천로 100 (천천동)",
+    "BusMap": "직행버스 3003, 시내(마을)버스 112번 외 6개 버스 이용 '천천초교,천천고교' 정거장 하차 > 천천초교,천천고교를 가로질러 수원우체국 방면으로 300m 이동\r\n마을버스 2-5 '수원우체국' 정거장 하차",
+    "SubWayMap": "1호선 성균관대역 하차 후 천천초등학교 방면 도보 20분 이동 > 천천동 수원우체국 옆 롯데시네마 타워 3층",
+    "MyCarMap": "<strong class=\"tit\">[내비게이션 검색] 롯데시네마 북수원\r\n경기도 수원시 장안구 천천로 100 (천천동) 3층\r\nB1 ~ B2층 주차장 이용\r\nB01 옆 시네마 전용 엘리베이터 및 C01 옆 상가 엘리베이터 이용하여 3층으로 이동",
+    "ParkingInfo": "<strong class=\"tit\">영화 관람 당일 3시간 무료 : (무료주차 초과시 10분당 1,000원 / 추가 건물 시설 이용 금액 합산 시 최대 6시간)\r\n<strong class=\"tit\">주차등록 안내 : <strong class=\"tit\">상영관 입장 전/후 입장로 입구에 비치된 태블릿으로 [차량 등록]\r\n<strong class=\"tit\">주차 정산 : <strong class=\"tit\">영화관에서 주차 등록 후 출차 (차량 미등록시 정상 요금 부과) / 추가 요금 정산은 카드 결제만 가능",
+    "TotalScreenCount": 5,
+    "TotalSeatCount": 640,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3045,
+    "CinemaNameKR": "(종료)북수원(사용불가)",
+    "CinemaNameUS": "Buksuwon",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.300579",
+    "Longitude": "126.983756",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

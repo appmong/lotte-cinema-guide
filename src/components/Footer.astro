@@ -1,0 +1,53 @@
+---
+import { SITE, OFFICIAL, DISCLAIMER } from "../site.config";
+import { REGIONS } from "../lib/cinemas";
+
+const year = new Date().getFullYear();
+const cols = [REGIONS.slice(0, 8), REGIONS.slice(8)];
+---
+
+<footer class="site-footer">
+  <div class="inner">
+    <div class="cols">
+      <div>
+        <h4>{SITE.name}</h4>
+        <p class="small" style="max-width:300px;margin:0;color:var(--text-mute)">
+          {SITE.tagline}. 실시간 상영시간표·예매는
+          <a href={OFFICIAL.home} target="_blank" rel="nofollow noopener">공식 홈페이지</a>를 이용하세요.
+        </p>
+      </div>
+
+      <div>
+        <h4>지역별 지점</h4>
+        <ul>
+          {cols[0].map((r) => (
+            <li><a href={`/지역/${r}/`}>{r}</a></li>
+          ))}
+        </ul>
+      </div>
+      <div>
+        <h4>&nbsp;</h4>
+        <ul>
+          {cols[1].map((r) => (
+            <li><a href={`/지역/${r}/`}>{r}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <div>
+        <h4>사이트 정보</h4>
+        <ul>
+          <li><a href="/about/">사이트 소개</a></li>
+          <li><a href="/privacy/">개인정보처리방침</a></li>
+          <li><a href="/terms/">이용약관</a></li>
+          <li><a href={OFFICIAL.home} target="_blank" rel="nofollow noopener">롯데시네마 공식</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="legal">
+      {DISCLAIMER}
+      <br />© {year} {SITE.name}.
+    </div>
+  </div>
+</footer>

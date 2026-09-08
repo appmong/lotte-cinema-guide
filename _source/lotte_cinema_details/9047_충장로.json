@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "광주광역시 동구 충장로안길 12",
+    "BusMap": "간선 : 36,39,45번\r\n지선 : 1187, 518, 55, 57, 59, 170, 70, 80, 74, 98, 12, 49, 184, 51, 150, 151, 95, 61번\r\n공항: 1000번\r\n급행: 07 ,09, 06번",
+    "SubWayMap": "금남로 4가역 : 1번 출구(우측 도보 100미터 > 좌측 횡단보도 이용 > 우측 도보 100미터 > 좌측도보 100미터 > 우측 건물 진입 후 엘리베이터 이용)",
+    "MyCarMap": "광주광역시 동구 충장로안길 12 (황금동)",
+    "ParkingInfo": "3시간 무료 이용 이후 추가 요금 발생\r\n매표소에서 당일티켓  제시 후, 주차권에 주차확인도장 및 주차등록(할인권)을 꼭 받아가시길 바랍니다.\r\n동아주차장 (광주광역시 동구 호남동 55번지 / 24시간 이용 가능 / 무인정산 시스템 운영으로 주차인증(차량번호등록)을 받아가시기 바랍니다.)\r\n신동아주차장 (광주광역시 동구 황금동 5-1번지 / 24시간 이용 가능)\r\n파레스주차장 (광주광역시 동구 블로동 43-1 / 오전 09시 ~ 마지막 영화까지 이용 가능)\r\n몽키터미널주차장 (광주광역시 동구 중앙로 160번길 16-14 / 24시간 이용 가능)\r\n황금주차장 (광주 동구 황금동 80번지 / 오전 7시 30분 ~ 익일 00:30분까지 이용 가능)",
+    "TotalScreenCount": 9,
+    "TotalSeatCount": 693,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0004",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9047,
+    "CinemaNameKR": "충장로",
+    "CinemaNameUS": "Chungjangro",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.1481151",
+    "Longitude": "126.9147085",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

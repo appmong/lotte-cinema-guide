@@ -1,0 +1,110 @@
+---
+import "../styles/global.css";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import BackToTop from "../components/BackToTop.astro";
+import { SITE, VERIFICATION, ADSENSE, ANALYTICS } from "../site.config";
+
+interface Props {
+  title?: string;
+  description?: string;
+  ogImage?: string;
+  noindex?: boolean;
+  bodyClass?: string;
+  canonicalPath?: string;
+  /** 구조화 데이터(JSON-LD) 객체 배열 */
+  jsonLd?: Record<string, unknown>[];
+}
+
+const {
+  title,
+  description = SITE.description,
+  ogImage = "/og/home.png",
+  noindex = false,
+  bodyClass = "",
+  canonicalPath,
+  jsonLd = [],
+} = Astro.props;
+
+const pageTitle = title ? `${title} - ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
+const canonical = new URL(canonicalPath ?? Astro.url.pathname, SITE.url).href;
+const ogAbs = new URL(ogImage, SITE.url).href;
+---
+
+<!doctype html>
+<html lang={SITE.lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script is:inline set:html={`(function(){try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();`}></script>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="canonical" href={canonical} />
+
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0d1117" media="(prefers-color-scheme: dark)" />
+
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css"
+    />
+
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+
+    {VERIFICATION.google && <meta name="google-site-verification" content={VERIFICATION.google} />}
+    {VERIFICATION.naver && <meta name="naver-site-verification" content={VERIFICATION.naver} />}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogAbs} />
+    <meta property="og:locale" content="ko_KR" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    {jsonLd.map((obj) => (
+      <script type="application/ld+json" is:inline set:html={JSON.stringify(obj)} />
+    ))}
+
+    {ADSENSE.clientId && (
+      <script
+        async
+        src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE.clientId}`}
+        crossorigin="anonymous"
+      ></script>
+    )}
+
+    {ANALYTICS.google && (
+      <>
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${ANALYTICS.google}`} is:inline></script>
+        <script
+          is:inline
+          set:html={`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${ANALYTICS.google}');`}
+        ></script>
+      </>
+    )}
+
+    {ANALYTICS.naver && (
+      <>
+        <script type="text/javascript" src="//wcs.pstatic.net/wcslog.js" is:inline></script>
+        <script
+          type="text/javascript"
+          is:inline
+          set:html={`if(!wcs_add) var wcs_add = {}; wcs_add["wa"] = "${ANALYTICS.naver}"; if(window.wcs) { wcs_do(); }`}
+        ></script>
+      </>
+    )}
+  </head>
+  <body class={bodyClass}>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+    <BackToTop />
+  </body>
+</html>

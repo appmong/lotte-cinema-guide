@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 파주시 문발로 284 (문발동) 롯데프리미엄아울렛 패션빌(B동) 4층",
+    "BusMap": "롯데프리미엄아울렛 하차 > 도보 200미터 이동 > B동 4층\r\n운행 버스 : 073, 074, 078, 083, 77-3(일,공휴일), 20, 200, 2200, 9030-1",
+    "SubWayMap": "",
+    "MyCarMap": "<strong class=\"tit\">[내비게이션 주소]</strong> : 경기도 파주시 문발로 284, 파주프리미엄아울렛 패션빌(B동) 4층\r\n<strong class=\"tit\">[주차장 이용안내]</strong> : 파주프리미엄아울렛 패션빌(B동) 지하 1~2층 주차장 (아울렛 운영시간내 출차 시 아울렛 럭셔리빌/스포츠빌/유스컬쳐빌 건물 주차장 이용 가능)",
+    "ParkingInfo": "<strong class=\"tit\">[주차 할인]</strong> : 영화 관람 당일 3시간 무료",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 924,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9113,
+    "CinemaNameKR": "파주롯데아울렛",
+    "CinemaNameUS": "PajuOutlet",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.718156",
+    "Longitude": "126.693056",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

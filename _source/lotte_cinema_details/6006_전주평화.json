@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "전북 전주시 완산구 백제대로 10 (평화동1가)",
+    "BusMap": "백제대로 방면 - 75, 2001, 2002, 810, 74, 999번 버스를 이용하시어 삼천신일아파트에서 하차\r\n팔달로방면 - 54, 55, 56, 57, 58, 165, 508, 536, 542, 545, 546, 1994, 970, 403, 1001, 401, 403, 119, 165, 650, 999, 104, 309, 3001 버스를 이용하시어 운행방향에 따라서 꽃밭정이네거리 / 삼천우성아파트 / 농협평화지소에서 하차",
+    "SubWayMap": "",
+    "MyCarMap": "전주IC - 호남고속도로 - 반월교차로에서 '월드컵경기장'방면으로 우회전 - 온고을로를 따라 8.22km이동 - 통일광장사거리에서 '완산구청'방면으로 우회전 - 백제대로를 따라 4.54km - 꽃밭정이네거리에서 '시청'방면으로 좌회전 - 장승배기로를 따라 753m\r\n서전주IC - 호남고속도로 - '전주'방면 - 봉두4길을 따라 365m - 금구사거리에서 '국립전주박물관'방면으로  좌회전 - 효자광장사거리에서 '순창'방면으로 우회전 - 백제대로를 따라 1.45km - 꽃밭정이 네거리에서 '시청'방면으로 좌회전 - 장승배기로를 따라 753m",
+    "ParkingInfo": "건물 뒷편 위치\r\n주차장 입구:평화동 토탈전자랜드, 전주완산경찰서피해자종합지원센터 사이\r\n주소 : 전라북도 전주시 완산구 꽃밭정로 5-4",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 1040,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0004",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 6006,
+    "CinemaNameKR": "전주평화",
+    "CinemaNameUS": "Jeonju Pyeongwha",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.7963115",
+    "Longitude": "127.1324218",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

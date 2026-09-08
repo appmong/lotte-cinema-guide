@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "서울 중랑구 동일로 951 (묵동)",
+    "BusMap": "2113, 2114 이용 시 묵동명사약국역 정류장에서 하차\r\n82A, 82B, 105, 146 이용 시 묵동 자이, 신도브래뉴아파트역 정류장에서 하차",
+    "SubWayMap": "7호선 먹골역 7번출구 도보 8분",
+    "MyCarMap": "서울시 중랑구 동일로 951 (티맵 권장)\r\n주차장 진입 시 반대 차선에서 좌회전 진입은 경찰 단속 대상으로 주의",
+    "ParkingInfo": "주차장이 매우 협소하여 대중교통 이용 권장\r\n평일 : 3시간 무료\r\n주말/공휴일 : 3시간 3,000원\r\n이후 10분당 500원 추가 요금 발생",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 973,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0001",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9083,
+    "CinemaNameKR": "중랑",
+    "CinemaNameUS": "jungnang",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.615085",
+    "Longitude": "127.075962",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

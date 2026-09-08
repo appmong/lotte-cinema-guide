@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "901"
+    ],
+    "CinemaIntro": "",
+    "Address": "경남 창원시 성산구 중앙대로 124 (상남동)",
+    "BusMap": "창원(상남동) 은아 아파트 하차 > 롯데백화점(도보 3분)\r\n수협경남금융본부 하차 > 롯데백화점(도보 3분)\r\n\r\n",
+    "SubWayMap": "",
+    "MyCarMap": "[내비게이션] 롯데시네마 창원 : - 경상남도 창원시 성산구 중앙대로 124\r\n[주차대수] 1,431대 : - 주말 및 공휴일은 혼잡하니 가급적 대중교통을 이용바랍니다.\r\n[마산 무역대로 방면] : - 자유무역정문사거리에서'시청, 마산자유무역지역'방면 우회전 > 용원교차로에서 '창원터널, 창원병원'방면으로 우회전 > 삼동공원사거리에서 '김해공항, 창원변원'방면으로 왼쪽 지하차도 진입 > 공단본부삼거리에서 '시청' 방면으로 좌회전 > 창원광장에서 우회전 > 롯데백화점 주차장 진입(옥외 및 본관 지하)\r\n[진해방면] : - 안민터널 진입 후 성선구청 방면으로 유턴 > 7호 광장지하차도에서 왼쪽 지하차도 진입 > 공단본부삼거리에서 '시청' 방면으로 우회전 > 창원광장에서 우회전 > 롯백화점 주차장 진입(옥외 및 본관 지하)\r\n[김해 방면] : - 창원터널 진입 후 > 성산구청 방면 직진 > 7호 광장지하차도에서 왼쪽 지하차도 진입 > 공단본부삼거리에서'시청' 방면으로 우회전 > 창원광장에서 우회전 > 롯데백화점 주차장 진입(옥외 및 본관 지하)\r\n[주차 후 시네마 이용 안내] : - 옥외 주차장(상시운영), 본관 1층 이동(도보 1분) <br>  - 엘리베이터(상시운영) 지하2층 ~ 지하 4층 주차 <br> - 지하 2층(241~2, 252~3번 구역) <br> - 지하 3층(342~3, 352~3번 구역) <br> - 지하 4층(441~2, 451~2번 구역) <br> - 에스컬레이터(평일10시30분~20시 / 주말 10시 30분 ~ 20시 30분), 지하 2층 ~ 지하 4층 > 본관 3층 > 시네마 3층 이동(코데즈 컴바인 방면)",
+    "ParkingInfo": "[주차 할인] : - 무인정산기 주차권 인증 시 영화관람 당일 3시간 무료(초과시 10분당 1000원) / 백화점 구매 금액 합산 시 최대 8시간\r\n[무인정산기위치] : - 본관 입구 1층 엘리베이터 홀 / 지하 2층 ~ 4층 에스컬레이터 홀 內",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 1319,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0101",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 5002,
+    "CinemaNameKR": "창원",
+    "CinemaNameUS": "Changwon",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.2245608787753",
+    "Longitude": "128.681816605537",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "986"
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 성남시 수정구 창업로 18 (시흥동) 파미어스몰 B1층~3층",
+    "BusMap": "<font color=green><b>\"I_SQUARE.창업주택\"</b><font color=black>정류장 하차 후 도보 3분 : [마을] 73-2 [일반] 누리2, 55, 231, 310, 315, 382 [광역] 3100\r\n<font color=green><b>\"판교제2테크노밸리(05002)\"</b> <font color=black>정류장 하차 후 도보 5분 : [마을] 66 [일반] 101, 357, 370 [광역] 1007, 1007-1, 1009, 5600, 5700A, 5700B, 6900, 9409 : ※ 안내되어 있는 노선의 변경이 있을 수 있으니 출발 전 버스 노선을 반드시 확인해주시기 바랍니다.<b></br>\r\n[건물 영업시간 외 이용 방법]\r\n파미어스몰 영업 시간 10시 30분 ~ 오후 10시 : 건물 영업시간 외에는 1층 정문 출입구로만 이동이 가능합니다. (롯데시네마 영업시간엔 상시개방)",
+    "SubWayMap": "[신분당선 판교역]\r\n2번 출구 100m 인근 \"판교역 동편\" 정류장에서 55, 310, 누리2 이용  <font color=green><b>\"I_SQUARE.창업주택\"</b><font color=black> 정류장 하차 후 도보 3분\r\n1번 출구 80m 인근 \"판교역 북편\" 정류장에서 3100번 이용 <font color=green><b>\"I_SQUARE.창업주택\"</b><font color=black> 정류장 하차 후 도보 3분<b></br>\r\n[수인분당선 야탑역]\r\n3번 출구 50m 인근 \"야탑역, 종합버스터미널(전면)\" 정류장에서 55, 73-2, 315, 382, 3100 이용 <font color=green><b>\"I_SQUARE.창업주택\"</b><font color=black>정류장 하차 후 도보 3분\r\n주소 경기도 성남시 수정구 창업로 18 파미어스몰 지하 1층",
+    "MyCarMap": "[네비게이션 검색어] <font color=red> 롯데시네마 판교 \r\n주소 경기 성남시 수정구 창업로 18 파미어스몰 P1 지하1층\r\n[주차 정보 안내]\r\n파미어스몰 P1 주차장 지하 2~3층 상시 개방\r\n<font color=green> 주말 주차장 혼잡 시, 맞은편 파미어스몰 P2주차장 이용가능 : (T맵 검색어 파미어스몰 P2주차장 / 주소 성남시 수정구 창업로 17)",
+    "ParkingInfo": "<font color=red> 영화 관람 당일 입차 후 3시간 무료 (기본 15분 무료 포함)\r\n건물 내 타 매장 이용 시 최대 4시간까지 합산 : (연속 영화 관람 시 주차시간 합산 어려우니 출차 후 재 입차 부탁드립니다.)\r\n정산방법\r\n지하 2~3층 주차장 내 <font color=red><b>사전정산기에서 주차바코드 인식 </b><font color=black>(차단기에 있는 정산기에선 바코드 인식 불가)\r\n주차권(바코드) 안내\r\n- 모바일티켓\r\n바로티켓/스마트티켓 좌측 상단 주차권 버튼 클릭 시 바코드 생성\r\n- 지류티켓\r\n티켓 내 첫번째 바코드 사용 : ※ 통신사 및 대행사 예매 시 현장 (스마트/지류) 티켓발권 필수",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 1087,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3047,
+    "CinemaNameKR": "판교(창조경제밸리)",
+    "CinemaNameUS": "Pangyo",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.413246",
+    "Longitude": "127.098762",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

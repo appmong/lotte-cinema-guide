@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "광주 광산구 첨단중앙로182번길 8 (쌍암동, 힐스테이트 첨단), 1층, 2층, 3층",
+    "BusMap": "[첨단1동 행정복지센터] 매월16, 첨단30, 문흥39, 첨단40, 운림51, 첨단94, 첨단193, 마을700\r\n[쌍암공원] 첨단09, 매월16, 첨단30, 송정33, 운림51, 첨단193, 마을700\r\n[첨단초교 후문] 봉선27, 송정33, 첨단94\r\n[광주교통방송] 봉선27, 문흥39, 첨단40",
+    "SubWayMap": "",
+    "MyCarMap": "[내비게이션 검색] 롯데시네마 광주첨단\r\n광주광역시 광산구 첨단중앙로 182번길 8\r\n상가동 지하주차장만 이용 가능<br>\r\n[주차장 이용방법]\r\n지하주차장 이용 시 ▶ 건물 E/V 사용 → 3층 롯데시네마\r\n지하주차장 이용 시 ▶ 건물 E/S 사용 → 3층 롯데시네마",
+    "ParkingInfo": "영화 관람 당일 4시간 무료",
+    "TotalScreenCount": 5,
+    "TotalSeatCount": 472,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0004",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9117,
+    "CinemaNameKR": "광주첨단",
+    "CinemaNameUS": "Gwangju Cheomdan",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.2212758",
+    "Longitude": "126.84201",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

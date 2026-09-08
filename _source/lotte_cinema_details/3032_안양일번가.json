@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 안양시 만안구 안양로 311 (안양동)",
+    "BusMap": "[대동문고 정류장]     \r\n   광명시 방면 : 2, 3, 11, 12\r\n   안양시 석수동 방면 : 1, 1-2, 8, 8-2\r\n   시흥시 방면 : 32\r\n   서울시 방면 : 5, 20, 5530, 5623, 5624, 5625, 5626, 5713, 8906, M5333\r\n[시외버스터미널, 교보생명 정류장]\r\n   안양시 비산동 방면 : 5626, 5713, 5625\r\n   안양시 평촌동 방면 : 1, 3, 6, 10, 83, 1650, 8906, M5333\r\n   의왕시 방면 : 1-2, 5, 8, 8-2, 52, 80, 88\r\n   군포시 방면 : 15-2, 20, 31-7, 88, 5530, 5531, 5623, 5624\r\n   과천시 방면 : 9, 11-3\r\n   성남시 방면 : 333, 3330\r\n   서울시 방면 : 9,1650,1303",
+    "SubWayMap": "[1호선 지하철] 안양역 하차 > 1번출구\r\n1. (추천) 지하상가 이용 직선 도보 315m 이동 > 일번가 지하쇼핑몰 22번 출구 > 건물 진입\r\n2. 전방 횡단보도 이용 > 직선거리 315m 도보 이동 > 건물 진입",
+    "MyCarMap": "[주소] 경기도 안양시 만안구 안양로 311, 9층 \r\n[네비게이션 검색] 롯데시네마 안양일번가",
+    "ParkingInfo": "[주차장 입구] 안양고용복지센터 방향 골목 진입 > 50m앞 우회전 (일방통행) > 100m 앞 우측 \r\n[주차장 이용안내] 지하 2층 ~ 5층 / 103대 가능 \r\n[주차요금 안내]\r\n주차권 인증 시 당일 3시간 무료 : (초과 시 10분당 300원)\r\n[주차권 안내]\r\n주차장 차단기 앞 정산기에서 티켓 하단의 바코드 인식 후 출차",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 858,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3032,
+    "CinemaNameKR": "안양일번가",
+    "CinemaNameUS": "Anyang 1st street",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.3995917",
+    "Longitude": "126.9202022",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

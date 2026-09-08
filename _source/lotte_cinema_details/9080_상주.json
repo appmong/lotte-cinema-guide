@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경상북도 상주시 중앙로 147 2층",
+    "BusMap": "ㆍ동성동 동문동 방면에서 오는 경우,\r\n   [리치마트] 정류장 하차\r\nㆍ낙양동 방면에서 오는 경우 ,\r\n   [상주초등학교] 정류장 하차",
+    "SubWayMap": "",
+    "MyCarMap": "ㆍ낙양사거리와 서문사리 사이에 위치\r\nㆍ네비게이션 이용 시 남성동 49-1 검색\r\nㆍ동성동, 동문동 방면으로 오실 경우, 서문사거리 지나 MS 저축은행 직전\r\n   우회전 후 좌측길을 통해 방문 가능\r\nㆍ낙양동 방면으로 오는 경우, 낙양사거리 우회 후 새나라 공인중계사 직전\r\n   좌측길을 통해 방문 가능",
+    "ParkingInfo": "ㆍ건물 내 주차공간 협소하여 대중교통 이용 또는 도보 권장",
+    "TotalScreenCount": 4,
+    "TotalSeatCount": 471,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0005",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9080,
+    "CinemaNameKR": "상주",
+    "CinemaNameUS": "Sangju",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "36.415784",
+    "Longitude": "128.154575",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

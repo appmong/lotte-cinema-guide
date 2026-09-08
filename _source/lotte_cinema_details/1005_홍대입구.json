@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "901"
+    ],
+    "CinemaIntro": "",
+    "Address": "서울 마포구 양화로 176 (동교동) 와이즈파크 8F ~ 11F",
+    "BusMap": "홍대입구역 (서교동 방면) _ 271, 602, 921, 1004, 3000, 7711 : 홍대입구역 8번 출구 방면 횡단보도 이용 → \"동교동삼거리\" 방면 좌회전 후 우측 와이즈파크 입구 진입 → 우측 엘리베이터 탑승<br></br>\r\n홍대입구역 (동교동삼거리 방면) _ 271, 602, 761, 921, 1000, 1004, 3000, 1301, 5712, 5714, 7612, 마포09 : 카카오프렌즈 방면 횡단보도 이용 → 홍대입구역 8번출구 방면 직진 후 우측 와이즈파크 입구 진입 → 우측 엘리베이터 탑승",
+    "SubWayMap": "<b>2호선 홍대입구역 하차</b>:홍대입구역 8번 출구→\"동교동삼거리\" 방면 50M직진 후 우측 와이즈파크 입구 진입→우측 엘리베이터 탑승(8층,10층)<br></br>\r\n<b>공항철도, 경의중앙선 홍대입구역 하차</b>: 홍대입구역 4번 출구→\"다이소, 스타벅스\" 방면 직진 후 좌측 와이즈파크 입구 진입→우측 엘리베이터 탑승(8층,10층)\t\t\t\t",
+    "MyCarMap": "내비게이션 검색 <b><font color=red>롯데시네마 홍대입구 주차장 </font color></b>\r\n서울특별시 마포구 양화로 176, 와이즈파크 (동교동 166-6):※ 홍대 와이즈파크 지상 8층 ~ 지상 10층 위치<br></br>\r\n<b><font color=red>주말, 공휴일의 경우 주차장 이용이 어려울 수 있으니 유의하시기 바랍니다.",
+    "ParkingInfo": "주차장 이용 안내<li>(1) 지하 주차장 (건물 지하 3층 ~ 지하 5층 _ 건물 뒷편 진입)</li><li>(2) 주차 대수 (총 200대)</li><li>(3) 영화관 오시는 길</li><li><font color=gray>&nbsp;&nbsp;주차 후 엘리베이터 탑승→지상 8층(1~3관) 또는</li><li>&nbsp;&nbsp;지상 10층(매표/스위트샵, 4~6관) 하차</li></font color><br>\t\t\t\t\r\n주차요금 안내<li>(1) 영화 관람 당일 3시간 무료</li><li>(2) 최초 30분 3,000원 / 이후 초과 시 10분당 1,000원</li><li>(3) 주차인증 안내</li><li><font color=gray>&nbsp;&nbsp;당일 관람티켓 소지 후 지상 10층 스위트샵에서 주차 할인 인증</li> <li>&nbsp;&nbsp;(미인증 출차시 환불 불가)</font color></li><li>(4) 주차 정산</li><li><font color=gray>&nbsp;&nbsp;출차시 무인정산기 사전 정산_차량번호 입력</li><li>&nbsp;&nbsp;무인 정산기 위치_지하 3층 엘리베이터 앞 (카드만 결제 가능)</li><font color>",
+    "TotalScreenCount": 4,
+    "TotalSeatCount": 730,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0001",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 1005,
+    "CinemaNameKR": "홍대입구",
+    "CinemaNameUS": "Hongik Univ",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.5573726898702",
+    "Longitude": "126.92530027683",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

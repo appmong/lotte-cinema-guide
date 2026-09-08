@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "986"
+    ],
+    "CinemaIntro": "",
+    "Address": "서울 용산구 청파로 74 (한강로3가)",
+    "BusMap": "[용산전자상가, 전자랜드] 정류장 하차(용산전자상가12동방면) _505,5012번 : 바디프렌드매장 방면 직진 후 시네마 전용 엘레베이터(지상) 이용<br></br>\r\n[용산전자상가, 전자랜드] 정류장 하차(원효대교북단방면) _505,5012번 : 에이스 하드웨어매장 방면 직진 후 횡단보도 이용 → 시네마 전용 엘레베이터(지상) 이용\r\n",
+    "SubWayMap": "1호선 및 중앙선 용산역 : 3번 출구 → 노보텔 엠버서더 용산 지나 전자랜드몰 방향 직진\r\n4호선 신용산역 : 5번출구 → CU편의점 방면 직진 → 신한은행 앞 13동 방면 횡단보도 이용 후 직진 \r\n6호선 효창공원역 : 4번출구 → 0411, 400번 버스 탑승 후 용산전자상가 입구 하차 → 남동전기 방면으로 직진 → 국민은행 앞 횡단보도 이용 후 오른쪽으로 직진",
+    "MyCarMap": "[네비게이션 검색] 롯데시네마 용산 옥상 주차장\r\n서울 특별시 용산구 청파로 74(한강로3가, 용산전자랜드 4~5층)<br>※ 4층 매점 및 1~6관, 5층 7~8관<br></br>[주차장 위치 안내]\r\n① 전자랜드 옥상 주차장 :진입로 - 전자랜드 본관 GATE 12 출입구 옆\r\n② 전자랜드 본관 주차장(옥상주차장 만차시 이용):진입로-공영 주차장 옆(전자랜드 주차장 승용차 전용)\r\n③ 전자랜드 지하 주차장(옥상주차장 만차시 이용) :진입로-벤츠 매장 옆 신관 지하 주차장<br></br>[주차장 이용 안내]\r\n주차 대수 총 1,197대\r\n<font color=red>영화관 인접 주차장:<font color=red>옥상주차장(6층)이용<br> 본관 및 지하주차장의 경우, 전자랜드 영업시간(10~20시) 내에서만 입차 가능\r\n영화관 오시는 길:옥상주차장 ; 시네마 전용 엘레베이터 이용(6층→4~5층) <br> 본관주차장 ; 본관출입구 GATE10번이동-시네마전용 엘레베이터이용(P1→ 4~5층) <br> 지하주차장 ; 신관→본관 이동 - 시네마 전용 엘레베이터 이용(P1→ 4~5층)",
+    "ParkingInfo": "<font color=red>영화 관람 시 당일 3시간 무료 주차 가능<br>(2편이상 관람 시 동일)<br></br><font color=red>[주차정산]<br><font color=black>영화 관람 후, 4F 주차등록 PC이용하여 주차등록<br><font color=black>주차 미 등록 시 주차요금 부과",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 889,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0001",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 1014,
+    "CinemaNameKR": "용산",
+    "CinemaNameUS": "Yongsan",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.5328184",
+    "Longitude": "126.959723",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

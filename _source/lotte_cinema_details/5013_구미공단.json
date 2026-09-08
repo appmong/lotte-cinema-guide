@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경북 구미시 산호대로 233 (공단동)",
+    "BusMap": "평생교육원 앞 : 하차 후 공단공원까지 100M 직진 > KB국민은행 구미공단종합금융센터 방면으로 횡단보도 > KB국민은행 구미공단종합금융센터 4층 \r\n평생교육원 건너 : 하차 후 대건이엔지까지 160M 직진 > KB국민은행 구미공단종합금융센터 방면으로 횡단보도 > KB국민은행 구미공단종합금융센터 4층\r\n복지상가 앞 : 하차 후 KB국민은행 구미공단종합금융센터 방면으로 100m 직진 > KB국민은행 구미공단종합금융센터 4층",
+    "SubWayMap": "",
+    "MyCarMap": "[네비게이션 검색] 롯데시네마 구미공단 : 경상북도 구미시 산호대로 233 (공단동, 박스인빌딩 4층) \r\n[주차장 이용 방법] 건물 內 지하주차장(B3F~B2F) : 주차 후 엘리베이터 이용 4층 이동",
+    "ParkingInfo": "영화 관람 시 무료 주차 (정산 없이 출차 가능)\r\n주말/공휴일의 경우 혼잡할 수 있으니\r\n주변 공영 주차장 혹은 대중교통 이용 바랍니다.",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 1204,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0005",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 5013,
+    "CinemaNameKR": "구미공단",
+    "CinemaNameUS": "Gumi Industrial Complex",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "36.1042243129666",
+    "Longitude": "128.384962573693",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

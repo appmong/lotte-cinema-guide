@@ -1,0 +1,120 @@
+---
+import { CINEMAS } from "../lib/cinemas";
+
+// 검색 인덱스(가벼운 필드만) — 본문 제외
+const index = CINEMAS.map((c) => ({
+  n: c.name,
+  r: c.region,
+  a: c.address,
+  u: c.url,
+}));
+---
+
+<dialog id="search-dialog" aria-label="지점 검색">
+  <form method="dialog" class="sd-head">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"></circle>
+      <path d="M20 20 L16 16" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+    </svg>
+    <input id="search-input" type="search" placeholder="지점명·지역으로 검색 (예: 가양, 부산, 강남)" autocomplete="off" />
+    <button value="close" class="sd-close" aria-label="닫기">esc</button>
+  </form>
+  <div id="search-results" class="sd-results" role="listbox"></div>
+  <p id="search-empty" class="sd-empty" hidden>일치하는 지점이 없어요.</p>
+</dialog>
+
+<script type="application/json" id="search-index" set:html={JSON.stringify(index)}></script>
+
+<script is:inline>
+  (function () {
+    const dialog = document.getElementById("search-dialog");
+    if (!dialog) return;
+    const input = document.getElementById("search-input");
+    const results = document.getElementById("search-results");
+    const empty = document.getElementById("search-empty");
+    let data = [];
+    try {
+      data = JSON.parse(document.getElementById("search-index").textContent || "[]");
+    } catch (e) {}
+
+    function open(prefill) {
+      if (!dialog.open) dialog.showModal();
+      if (prefill != null) input.value = prefill;
+      render(input.value);
+      setTimeout(function () { input.focus(); }, 20);
+    }
+    document.querySelectorAll("[data-search-open]").forEach(function (b) {
+      b.addEventListener("click", function () { open(b.getAttribute("data-search-q")); });
+    });
+    document.addEventListener("keydown", function (e) {
+      if ((e.ctrlKey || e.metaKey) && e.key === "k") { e.preventDefault(); open(); }
+    });
+
+    function esc(s) { return String(s).replace(/[&<>]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]; }); }
+
+    function render(q) {
+      q = (q || "").trim().toLowerCase();
+      let list = data;
+      if (q) {
+        list = data.filter(function (c) {
+          return (c.n + " " + c.r + " " + c.a).toLowerCase().indexOf(q) !== -1;
+        });
+      }
+      list = list.slice(0, 40);
+      empty.hidden = list.length > 0;
+      results.innerHTML = list
+        .map(function (c) {
+          return (
+            '<a class="sd-item" href="' + c.u + '">' +
+            '<span class="sd-name">' + esc(c.n) + '</span>' +
+            '<span class="sd-region">' + esc(c.r) + '</span>' +
+            '<span class="sd-addr">' + esc(c.a) + "</span></a>"
+          );
+        })
+        .join("");
+    }
+    input.addEventListener("input", function () { render(input.value); });
+    dialog.addEventListener("click", function (e) {
+      const r = dialog.getBoundingClientRect();
+      if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) dialog.close();
+    });
+  })();
+</script>
+
+<style is:global>
+  #search-dialog {
+    width: min(560px, calc(100vw - 32px));
+    max-height: 72vh;
+    padding: 0;
+    border: 1px solid var(--border-strong);
+    border-radius: 16px;
+    background: var(--bg-card);
+    color: var(--text);
+    box-shadow: 0 24px 60px rgba(10, 20, 60, 0.35);
+    top: 12vh;
+  }
+  #search-dialog::backdrop { background: rgba(10, 15, 30, 0.5); backdrop-filter: blur(2px); }
+  #search-dialog .sd-head {
+    display: flex; align-items: center; gap: 10px;
+    padding: 14px 16px; border-bottom: 1px solid var(--border);
+    color: var(--text-mute); position: sticky; top: 0; background: var(--bg-card);
+  }
+  #search-dialog #search-input {
+    flex: 1; border: none; outline: none; background: transparent;
+    font-size: 16px; color: var(--text); font-family: inherit;
+  }
+  #search-dialog .sd-close {
+    border: 1px solid var(--border); background: var(--bg-soft); color: var(--text-mute);
+    border-radius: 6px; font-size: 12px; padding: 3px 8px; cursor: pointer;
+  }
+  #search-dialog .sd-results { overflow-y: auto; padding: 6px; }
+  #search-dialog .sd-item {
+    display: grid; grid-template-columns: auto auto; grid-template-areas: "name region" "addr addr";
+    gap: 2px 8px; padding: 10px 12px; border-radius: 10px; color: var(--text);
+  }
+  #search-dialog .sd-item:hover, #search-dialog .sd-item:focus { background: var(--accent-soft); text-decoration: none; }
+  #search-dialog .sd-name { grid-area: name; font-weight: 700; }
+  #search-dialog .sd-region { grid-area: region; justify-self: start; font-size: 12px; font-weight: 700; color: var(--accent-ink); background: var(--accent-soft); border-radius: 999px; padding: 1px 9px; }
+  #search-dialog .sd-addr { grid-area: addr; font-size: 13px; color: var(--text-mute); }
+  #search-dialog .sd-empty { padding: 24px 16px; text-align: center; color: var(--text-mute); font-size: 14px; }
+</style>

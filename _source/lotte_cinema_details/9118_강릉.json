@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "강원 강릉시 임영로 102 시네마스퀘어 6층 ~ 10층",
+    "BusMap": "[성내동 광장 정류장] 211, 211-1 ",
+    "SubWayMap": "",
+    "MyCarMap": "내비게이션 검색 : 롯데시네마 강릉\r\n강원특별자치도 강릉시 임영로 102 씨네마스퀘어 \r\n씨네마스퀘어 B1~B4층 주차장 이용",
+    "ParkingInfo": "영화 관람 당일 3시간 무료 (초과시 30분당 1,500원 / 건물 내 주차 등록 합산 가능)\r\n주차 등록\r\n① 6층 매점 \r\n② 지하주차장 사전 무인 정산기(B1-B4 시네마 라인E/V)",
+    "TotalScreenCount": 4,
+    "TotalSeatCount": 296,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0006",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9118,
+    "CinemaNameKR": "강릉",
+    "CinemaNameUS": "Gangneung",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.752887",
+    "Longitude": "128.894025",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn----cy5et9kgvcyujh7bb8td7dea361fcv6b.anywhereifyoucan.com/sitemap-index.xml

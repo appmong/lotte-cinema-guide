@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "서울 강서구 양천로 476 (등촌동) 4층",
+    "BusMap": "652, 672, 6632 이용 시 가양역 정류장에서 하차\r\n673, 6627, 6642, 6645, 6715, 8000, 마을버스 강서 04, 05 이용 시 마포 중고등학교정류소에서 하차 후 가양역 9번출구 방면",
+    "SubWayMap": "9호선 가양역 : 9번 출구 (도보 직진 50미터 > 좌측 건물 진입 > 엘리베이터 이용 5층)",
+    "MyCarMap": "화곡 및 신월 방면에서 오실 경우 : 가양역 사거리에서 좌회전 후 유턴, 금부타워 주차장으로 진입\r\n마곡 및 방화 방면에서 오실 경우 : 양천향교역을 지나 1km 직진 후 우측 금부타워 주차장으로 진입\r\n상암방면에서 오실 경우 : 가양대교를 건너 가양역 사거리에서 직진하여 가양역 8번 출구 오른쪽 골목길로 우회전, P턴하여 금부타워 주차장으로 진입",
+    "ParkingInfo": "ㆍ영화 관람시, 4층 매점에서 차량번호 등록 필수\r\nㆍ입차시간부터 최대 3시간 무료주차, 초과시 10분당 1천원 부과\r\n   (건물 내 타 매장과 합산 시 최대 5시간)\r\nㆍ정산은 1층 출차시 신용카드 결제만 가능합니다.\r\nㆍ주차등록을 하지 않고 요금을 지불하시는 경우 환불이 불가합니다.\r\nㆍ주차장이 협소 하오니 가급적 대중교통 이용을 부탁드립니다.",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 444,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0001",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9094,
+    "CinemaNameKR": "가양",
+    "CinemaNameUS": "Gayang",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.5615798",
+    "Longitude": "126.8532847",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

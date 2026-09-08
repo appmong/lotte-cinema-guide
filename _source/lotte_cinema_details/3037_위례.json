@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 성남시 수정구 위례광장로 104 (창곡동)",
+    "BusMap": "<font color=blue> [성남,송파차고지 방면]\r\n자연 앤 센트럴자이 정문 정류장 하차 > 횡단보도 건넌 후 왼쪽 오벨리스크 건물 내 진입 중앙 엘리베이터 또는 에스컬레이터 이용 B1층\r\n<font color=red> 정류장 정차버스 345, 3420 , 50\r\n<font color=blue>[서울방면]\r\n한화오벨리스크 정류장 하차 > 건물 내 스타벅스 뒤편 중앙엘리베이터 이용 B1층\r\n<font color=red> 정류장 정차버스 345, 3420 , 50",
+    "SubWayMap": "[지하철 8호선 남위례역 하차]\r\n4번출구 > 남위례역, 창곡교차로 정류장 버스 환승 > 한화오벨리스크 정류장 하차 > 건물 내 스타벅스 뒤편 중앙엘리베이터 이용 B1층\r\n<font color=red>환승버스 안내 345 , 3420 , 50",
+    "MyCarMap": "[네비게이션 이용] : 경기도 성남시 수정구 위례광장로 104(창곡동)\r\n송파방면 : 송파대로 > 가락시장 사거리 우회전 > 양재대로 672m이동 > 장지지하차도 > 위례 중앙로 1.54km이동 > 위례 지하차로 진입 > 우회전 > 위례광장로 66m 이동\r\n세곡방면 : 현릉로 590길 > 세곡동사거리 방면 우회전 > 위례광장로 210m 이동 > 우회전 후 803m 이동\r\n모란방면 : 모란사거리 > 성남수정경찰서 방면 우회전 > 성남대로 3.76km 이동 > 송파 IC방면으로 좌회전 > 위례광장로 273m 이동\r\n한화오벨리스크 건물 주차장 44,45번 기둥 맞은편 중앙 엘리베이터 이용 B1층",
+    "ParkingInfo": "영화관 이용 시 3시간 무료주차 가능\r\n3시간 이후 출차 시 30분 당 1천원씩 추가요금 발생\r\n주차공간 협소로 대중교통 권장",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 1002,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3037,
+    "CinemaNameKR": "위례",
+    "CinemaNameUS": "Wirye",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.473588",
+    "Longitude": "127.140443",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

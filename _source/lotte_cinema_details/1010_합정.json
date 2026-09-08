@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "200"
+    ],
+    "CinemaIntro": "",
+    "Address": "서울 마포구 양화로 45 (서교동, 메세나폴리스) 2층",
+    "BusMap": "합정역(선유고등학교 방면) _602, 603, 604, 761, N26(심야), N51(심야), N62(심야), 5712, 5714, 6712, 6716, 7612, 1000, 1100, 1101, 1200, 1300, 1301, 1302, 1400, 1500, 1601, M6117, M6628, M6724,1004, 3000, G6000, G6004, 이음1(심야):(세아타워 방면 / 지하철 9번 출구 방향) 우측 횡단보도 이용 후 직진 (메세나폴리스몰 지상 2층 이동)→\"세븐일레븐\" 지나 상행 에스컬레이터 이용→2층 \"뷰티스톤피부과\" 방면 직진 후 좌측 롯데시네마 입구 이동\r\n합정역 (서교동 방면) _ 602, 603, 604, 761, N26(심야), N51(심야), N62(심야), 5712, 5714, 6712, 6716, 7612, 1000, 1004, 1100, 1101, 1200, 1300, 1301, 1302, 1601, 3000, M6117, M6628, M6724, 6002, G6000, 이음1(심야):횡단보도 총 2회 이용 _ (지하철 8번 출구 방향) 횡단보도 이용→(세아타워, 지하철 9번출구 방향) 횡단보도 이용→메세나폴리스몰 진입 후 2층 이동\r\n메세나폴리스 (성산초등학교입구 방면) _ N72(심야), 271, 7013A, 7013B:국민은행 옆 계단 이동 (맥도날드, 파스쿠찌 방면)→2층 \"맥도날드\" 지나 좌회전→직진 후 좌측 롯데시네마 입구 이동\r\n마포한강푸르지오 (합정역 방면) _ 271, N72(심야), 7011, 7013A, 7013B:좌측 횡단보도 (세아타워 방향) 이용→국민은행 옆 2층 계단 이동→\"맥도날드\" 지나 좌회전 후 좌측 롯데시네마 입구 이동",
+    "SubWayMap": "2호선, 6호선 합정역 하차 (지하1층 연결):합정역 9, 10번 출구 방향 이동 (지하1층 메세나폴리스몰 건물 연결 통로)<li>→\"홈플러스\" 입구 오른편 상행 에스컬레이터 이용</li>→2층 \"뷰티스톤피부과\" 방면 직진 후 좌측 롯데시네마 입구 이동<br></br><br></br>",
+    "MyCarMap": "내비게이션 검색 <b><font color=red>롯데시네마 합정 주차장</font color></b>\t\r\n서울특별시 마포구 양화로 45, 메세나폴리스 (서교동 490)<li>※ 메세나폴리스몰 지상 2층 위치</li>",
+    "ParkingInfo": "주차장 이용 안내<li>(1) 지하 주차장 (건물 지하 3층 ~ 지하 4층)</li><li>(2) 주차 대수 (총 728대)</li><li>(3) 영화관 인접 구역</li><li><font color = red>&nbsp;&nbsp;&nbsp;지하 3층 W52 구역 / 지하 4층 W62 구역</font color></li>\r\n영화관 오시는 길<li><font color=gray>&nbsp;&nbsp;주차 후 영화관 인접 구역 엘리베이터(승객용) 탑승</li><li>&nbsp;&nbsp;→지상 2층 하차 후 우측 롯데시네마 입구 이동</font color></li>\r\n주차요금 안내<li>(1) 영화 관람 당일 3시간 무료 </li><li>(2) 초과 시 10분당 1,000원 / 메세나폴리스몰 구매 금액 합산 가능</li><li>&nbsp;&nbsp;&nbsp;&nbsp;(최대 4시간 무료)</li><li>(3) 주차권 안내:모바일티켓 _ 스마트티켓 하단 바코드 이용<li>지류티켓 _ 영화티켓 하단 주차권 바코드 사용</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(주차권 미출력시 스위트샵 방문)\r\n주차 정산:출차시 무인정산기 사전 정산 <font color=red>(정산 후 20분 이내 미출차시 추가 요금 발생)</font color><li>차량번호 입력 후 주차권 바코드 스캔</li>\r\n무인 정산기 위치:① 롯데시네마 홀 (안마의자 기기 옆), ② 지하 3층 / 지하 4층 엘리베이터 홀",
+    "TotalScreenCount": 4,
+    "TotalSeatCount": 733,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0001",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 1010,
+    "CinemaNameKR": "합정",
+    "CinemaNameUS": "Hapjeong",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.5504586",
+    "Longitude": "126.9134333",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

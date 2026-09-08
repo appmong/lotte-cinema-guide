@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "986"
+    ],
+    "CinemaIntro": "",
+    "Address": "부산 강서구 명지국제6로 107 (명지동) 2층 (대방디엠시티2차)",
+    "BusMap": "58-2, 168, 급행1009, 강서구21번 버스 이용시 '명원초등학교' 정류장에서 하차 하시면 도보 1분 거리 대방디엠시티 건물 2층에 위치해 있습니다.",
+    "SubWayMap": "현재 이용 가능한 노선이 없습니다.",
+    "MyCarMap": "부산광역시 강서구 명지국제6로 107 대방디엠시티 2층",
+    "ParkingInfo": "출차 전 매표소 옆 사전정산 시 3시간 무료주차",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 810,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0101",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9092,
+    "CinemaNameKR": "부산명지",
+    "CinemaNameUS": "myeongji",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.091800",
+    "Longitude": "128.909719",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

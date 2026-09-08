@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "950"
+    ],
+    "CinemaIntro": "",
+    "Address": "충북 청주시 흥덕구 2 순환로 1004 롯데아울렛 4층",
+    "BusMap": "<font color=blue><b>버스 이용 시 '롯데쇼핑몰,지웰시티', '비하종점 하차' 정류소에서 하차</b>\r\n<font color=black><b>'롯데쇼핑몰,지웰시티'정류소 하차 시</b>\r\n<font color=black> 롯데아울렛 청주점 진입 후 4층 롯데시네마 서청주\r\n노선 : 712,715,716,718,719,720,720-1,722,722-1\r\n<font color=black><b>'비하종점'정류소 하차 시</b>\r\n<font color=black> 대농교사거리까지 직진 > 타이어프로 지웰시티점에서 횡단보도 > 롯데아울렛 청주점 진입 후 4층 롯데시네마 서청주\r\n노선 : 311,311-1,313-1,820,835,843\r\n<font color=red><롯데쇼핑몰 영업시간 외> 주중/주말 오후 23시~오전 10시\r\n매월 2째,4째주 수요일 롯데마트 휴점시\r\n<font color=black>건물 후문(지상주차장 방면) 이용하여, 1층 E/V 탑승후 4층 롯데시네마로 이동 ",
+    "SubWayMap": "",
+    "MyCarMap": "[내비게이션 검색] <font color=red>롯데시네마서청주(아울렛)\r\n<font color=black>[주소] 충청북도 청주시 흥덕구 2순환로 1004\r\n[주차장 이용방법]\r\n건물 내 지하 1층~지하2층 주차장 이용\r\n주차 후 주차장 내 E/V 탑승하여 4층 롯데시네마\r\n주차 후 주차장 내 중앙 무빙워크 이용하여 마트/아울렛 진입 시 1층 후문(지상주차장) 방면 E/V 탑승 후 4층 롯데시네마",
+    "ParkingInfo": "<font color=red> 영화 관람 당일 3시간 무료, 입점건물 이용 합산시 최대 5시간 무료(초과시 30분당 2,000원)\r\n<font color=black> [주차 정산방법]\r\n모바일 티켓(스마트티켓) : 영화 관람 후 티켓 화면의 주차권 버튼 클릭하여 사전정산기에 바코드 등록\r\n지류 티켓 : 영화 관람 후 티켓 하단 주차권 바코드 사전 정산기에 바코드 등록\r\n사전 정산기 위치 : 4층 E/V 외부, 지하 1층~지하 2층 각 무빙워크 및 E/V 외부",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 1286,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0003",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 4004,
+    "CinemaNameKR": "서청주(아울렛)",
+    "CinemaNameUS": "Seocheongju",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "36.6449815",
+    "Longitude": "127.4211508",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

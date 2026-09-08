@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "대전 서구 계룡로 598 (괴정동)",
+    "BusMap": "<font color=blue><b>[롯데백화점 방면]: 101번, 107번, 211번, 315번, 316번, 318번, 602번, 604번, 618번,703번\r\n 롯데백화점 버스정류장 하차 > 롯데백화점 방향으로 도보 직진 200미터 > 왼쪽으로 10미터 이동 > 백화점 출입문으로 진입하여 엘리베이터 10층 이용\r\n<font color=blue><b>[서부농협본점 방면]: 101번, 107번, 211번, 315번, 316번, 318번, 604번, 618번, 703번\r\n 서부농협본점 버스정류장 하차 > 롯데백화점 방향으로 도보 직진 220미터 (횡단보도 1회 건넘) > 백화점 방향으로 횡단보도 건넌 후 백화점 출입문 진입하여 엘리베이터 10층 이동",
+    "SubWayMap": "[1호선 용문역]\r\n l 백화점 정문 : 지하철 4번출구 > 도보 직진 370미터 > 백화점 건물 진입 후 우측도보 50미터 > 엘리베이터 10층 이동\r\n l 백화점 서문 : 지하철 4번출구 > 도보 직진 450미터 > 왼측도보 10미터 이동 > 백화점 출입문으로 진입하여 엘리베이터 10층 이동",
+    "MyCarMap": "[내비게이션 검색]<font color=red><b>롯데시네마 대전\r\n 대전 서구 괴정동 110-600,423-1번지\r\n[주차장 이용방법]\r\n l B3~B5층 기둥 숫자 03 ~ 07구역 인근 주차\r\n l 기둥 숫자 05번 양쪽 입구 내부 엘리베이터 이용하여 9층 이동\r\n l 9층에서 내린 후 카페 소담원 옆 에스컬레이터를 이용하여 10층 이동",
+    "ParkingInfo": "<font color=blue><b>[백화점 지하주차장 이용]:<font color=red><b> 출차 시 당일 티켓에 한하여 입차시간부터 3시간 무료 주차 (10분 초과 시 1,000원)\r\n<font color=red><b>[백화점 별관 후문 여성전용 주차장, 문화센터 주차장]: <font color=red><b>시네마 고객 유료주차 (10분당 1,000원 부과 / 운영시간:10시~20시)\r\n백화점 구매 영수증과 합산 가능(최대 7시간)\r\n<font color=blue><b>[주차 정산 방법]\r\n 모바일 티켓 : 바로티켓 안에 주차권 버튼 클릭시 바코드 생성\r\n 지류 티켓 : 티켓 하단 주차권 바코드 이용\r\n<font color=blue><b>[주차 정산] : 사전 주차정산기 지하 3층/4층 엘리베이터 앞에 위치하여 카드로만 결제가능 (현금결제 불가)",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 1144,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0003",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 4002,
+    "CinemaNameKR": "대전(백화점)",
+    "CinemaNameUS": "Daejeon",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "36.3408418",
+    "Longitude": "127.3892867",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

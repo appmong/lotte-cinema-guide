@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경북 영주시 영주동 497번지",
+    "BusMap": "영광중학교 하차 : 1번, 2번, 3번, 5번, 8번",
+    "SubWayMap": "",
+    "MyCarMap": "네비게이션 주소 : 경상북도 영주시 구성로 417\r\n네비게이션 검색 : 롯데시네마 영주\r\n주차 안내 : 건물 뒷편 및 외부 주차장 이용 /  영화관람 고객 대상 무료 개방",
+    "ParkingInfo": "주차장이 다소 협소할 수 있습니다.\r\n주말 및 공휴일은 대중교통 이용 권해 드리고 있으니 고객님들의 많은 협조 부탁드립니다.",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 909,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0005",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9064,
+    "CinemaNameKR": "영주",
+    "CinemaNameUS": "Youngju",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "36.827272",
+    "Longitude": "128.617870",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

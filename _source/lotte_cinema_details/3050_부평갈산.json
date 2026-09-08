@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "986"
+    ],
+    "CinemaIntro": "",
+    "Address": "인천 부평구 주부토로 236 (갈산동) B동 3층 롯데시네마 부평갈산",
+    "BusMap": "<font color=red> [대동아파트 방면/갈산사거리 방면]\r\n인천테크노밸리U1센터 하차 \r\n<font color=blue> [정차버스 안내]\r\n마을버스 571, 581\r\n시내버스 67-1",
+    "SubWayMap": "<font color=magenta><b> [인천1호선 갈산역] </b>\r\n갈산역 2번출구 > 투썸플레이스 우측 길로 약 500m 이동 > 인천테크노밸리U1센터 3층 > 롯데시네마 부평갈산 입구",
+    "MyCarMap": "[네비게이션 주소] <font color=red> 인천광역시 부평구 주부토로 236, 롯데시네마 부평갈산(인천테크노밸리U1센터 3층)\r\n[주차정보 안내]\r\n<font color=red> B1 ~ 10F 총 1,779대 주차 가능\r\n3F 15번 기둥 인근 주차 시 롯데시네마 진입이 용이합니다.\r\n\r\n ",
+    "ParkingInfo": "[주차 요금 안내]\r\n영화관 3F홀에서 차량 등록 시 4시간 무료 주차 가능\r\n4시간 초과 시 30분마다 1,500원 발생\r\n차량 미등록 시 주차 요금 발생\r\n",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 1034,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3050,
+    "CinemaNameKR": "부평갈산",
+    "CinemaNameUS": "Bupyeong Galsan",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.5151898",
+    "Longitude": "126.7271571",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

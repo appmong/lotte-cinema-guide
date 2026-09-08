@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경북 영천시 시장로 96 (완산동) 2층",
+    "BusMap": "시장사거리(영천공설시장,완산동주민센터 방면) 에서 하차 (도보3분, 224m)\r\n[일반] : 1, 1-1, 3, 620, 622, 622-1\r\n시장사거리(영천우체국,영천역 방면) 에서 하차 (도보4분, 315m)\r\n[일반] : 2, 2-1, 2-2, 2-3, 3\r\n영천공설시장(유명약국 앞) 에서 하차 (도보4분, 317m)\r\n[일반] : 55, 55-1, 111, 111-1, 111-2, 112, 150-3, 220, 220-1, 220-2, 220-3, 241, 241-1, 242, 242-2, 250, 251, 271, 281, 281-1, 293, 294, 310, 310-1, 320, 320-1, 330, 331, 340, 340-1, 340-2, 350, 350-1, 351, 351-1, 352, 360, 360-2, 361, 363, 410-1, 420, 420-1, 421, 431, 432, 432-1, 443, 450, 450-2, 451, 611, 611-1, 612, 614, 620, 621, 622, 622-1, 630, 710, 710-2, 730-1, 730-2, 750-1, 751, 751-1, 751-2, 751-3, 752, 753, 760, 760-1, 760-2, 760-3, 760-4, 761, 763, 자양1, 555, 550-7\r\n[마을] : 순환1, 순환2, 순환3, ",
+    "SubWayMap": "",
+    "MyCarMap": "경북 영천시 시장로96, 2층 롯데시네마 영천관\r\n롯데시네마 영천관(고은스퀘어) 3F 주차장 이용 가능(3시간 무료)",
+    "ParkingInfo": "도보이용 시 고은스퀘어 건물 진입 후 엘리베이터/에스컬레이터 이용하여 2층으로 올라오시면 됩니다.",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 612,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0005",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9098,
+    "CinemaNameKR": "영천",
+    "CinemaNameUS": "yeong cheon",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.962962",
+    "Longitude": "128.940668",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

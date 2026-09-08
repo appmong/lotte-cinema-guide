@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경상남도 창원시 마산회원구 3ㆍ15대로 750 마산시외버스터미널",
+    "BusMap": "100, 103, 113, 162, 700, 702, 703, 705, 710, 760번 ",
+    "SubWayMap": "",
+    "MyCarMap": "창원 방향 : 창원역에서 마산시외버스터미널 방향으로 오다가 마산복음병원으로 좌회전하여 약 1km 직진 후 우측 터미널 주차장에 주차\r\n마산 방향 : 마산역에서 마산시외버스터미널 방향으로 직진하다 롯데리아 삼거리에서 우회전 하여 국민은행 사거리에서 좌회전 후 좌측 터미널 주차장에 주차",
+    "ParkingInfo": "영화관 뒤편 사거리 마산터미널 주차장 이용 가능\r\n평일, 주말, 공휴일 : 3시간 무료 주차(영화관람 고객 한정)\r\n주차요금 : 최초 30분 1,000원 / 추가 15분당 500원\r\n인증방법 : 영화티켓 발권 및 확인 시 주차권에 무료주차 도장을 받아 퇴차 시 제출",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 602,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0101",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9042,
+    "CinemaNameKR": "마산(합성동)",
+    "CinemaNameUS": "Masan Terminal",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.238936554890856",
+    "Longitude": "128.58371136140462",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

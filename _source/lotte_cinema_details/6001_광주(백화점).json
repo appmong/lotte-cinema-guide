@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "300"
+    ],
+    "CinemaIntro": "",
+    "Address": "광주 동구 독립로 268 (대인동)",
+    "BusMap": "<font color=blue><b>버스 이용 시 DB손해보험 맞은편/광주은행 맞은편/백화점 정문/백화점 정문 맞은편/금남로 5가 IBK기업은행 앞/금남로 5가 DB손해보험 앞에서 하차</b>\r\n<font color=black><b>동부소방서 맞은편(1117) </b>\r\n노선 : 금남58,지원52,두암81(각화초교),지원152(능주역),지원152(도웅리),마을715,좌석02,대촌70,대촌170\r\n<font color=black><b>동부소방서(1118) 광주은행 본점 맞은편 </b>\r\n노선 : 금남58,좌석02,봉선37,지원152(능주역),지원152(도웅리),지원52,진월07,두암81(무등파크),마을715 \r\n<font color=black><b>백화점 정문(1119)</b>\r\n노선 : 두암81(각화초교),1187,나주160,송정19,일곡38,지원52,마을715,용전184,대촌70,금남57,대촌170\r\n<font color=black><b>롯데백화점 북(4586) 백화점 정문 맞은편</b>\r\n노선 : 1187,금남57\r\n<font color=black><b>롯데백화점(4520) 본죽 맞은편</b> \r\n노선 : 나주160, 송정19, 일곡38,두암81(무등파크),지원52,마을715\r\n<font color=black><b>금남로 5가역(1114) IBK기업은행 앞</b>\r\n노선 : 진원07,운림51,1187,금남57,518,문흥39.첨단95,금호36,수완49,첨단09,매월61(칠석),매월61(세하)\r\n<font color=black><b>금남로 5가역(1113) DB손해보험 앞</b>\r\n노선 : 문흥39,첨단95,518,운림51,매월61(세하),매월61(칠석),수완49,금남57.1187,금호36,용전184\r\n<font color=red><백화점 영업시간 외> 주중 오후 20시~오전 10시 30분, 주말 오후 20시 30분~오전 10시 30분 남문주차장 방향 입구 이용",
+    "SubWayMap": "<font color=magenta><b>[1호선 금남로 5가역] </b>\r\n<font color=red>6번출구(출구 반대방향 도보 10m)<font color=black> > 우측 도보 200m(횡단보도 1회 이용) > 우측 건물 진입 후 E/V 이용 > 9층 롯데시네마",
+    "MyCarMap": "[내비게이션 검색] <font color=red>롯데시네마 광주관(백화점)\r\n<font color=black>[주소]:롯데시네마 광주(광주광역시 동구 독립로 268 롯데백화점)\r\n<font color=black>[주소]:롯데시네마 광주 남문주차장(광주 동구 금남로 5가 11, 본관 지하주차장 입구 맞은편 건물)\r\n<font color=black>[주소]:롯데시네마 광주 별관주차장(광주 동구 대안동 31, 광주우체국 뒷편)\r\n<font color=black> 조조,심야 관람 시 남문 주차장 맞은편 백화점 건물 1층 롯데시네마 전용 입구를 이용하시기 바랍니다.\r\n심야 영화 관람 고객님께서는 지하주차장을 이용하시기 바랍니다.\r\n[주차장 이용방법]\r\nB2~B4 기둥 번호 202,302,402 인근 주차\r\n기둥 번호 202,302,402 앞쪽 엘리베이터 이용하여 9층 이동\r\n본관 주차장 7시~마지막 영화 종료 후 30분까지 운영\r\n남문 주차장 10시~22시까지 운영\r\n별관 주차장 9시~22시까지 운영(단, 주말 및 공휴일은 12시~22시)",
+    "ParkingInfo": "<font color=red> 영화 관람 당일 3시간 무료, 영화관람+1만원 이상 구매 시 4시간 무료 (초과 시 15분당 500원)\r\n<font color=black> 주차권 안내\r\n모바일 티켓 : 바로티켓 상단 주차권 버튼 클릭 시 바코드 생성\r\n지류 티켓 : 영화 티켓 하단 주차권 바코드 사용\r\n<font color=black> 주차 정산\r\n사전 정산기 활용 : 영화 관람 후 사전 정산\r\n사전 정산기 위치 : B2~B4 하행선 에스컬레이터 앞, 9층",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 1024,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0004",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 6001,
+    "CinemaNameKR": "광주(백화점)",
+    "CinemaNameUS": "Gwangju",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "35.1548181986979",
+    "Longitude": "126.912056734844",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

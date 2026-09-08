@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경상북도 포항시 북구 중앙상가길 16 3층~8층(대흥동 / 매표,매점 3층) ",
+    "BusMap": "버스 전 노선 이용가능 (죽도시장역에서 하차, 5분거리)",
+    "SubWayMap": "　",
+    "MyCarMap": "경상북도 포항시 북구 중앙상가길 16 (대흥동)",
+    "ParkingInfo": "롯데시네마 포항, 건물 內 지하주차장(타워식 약 90대)\r\n주차 만차시 입차 불가\r\n일반고객 - 매표소에서 도장 날인시 3시간 무료 :(초과 30분당 1,000원 추가요금 발생)\r\n진입방향 1. : 남빈사거리 -> 철물점거리 방향 약 150m 직진 후 '동경전기' '통영기계상사' 사이 골목 우회전 진입 후 좌측방향 \r\n진입방향 2. :포항역사거리 -> 오거리 방향 약 150m 직진 -> 죽도성당 앞 유턴 후 100m 직진-> 철물점 거리 진입후 약 100m 직진 -> '동경전기' '통영기계상사' 사이 골목으로 좌회전 후 좌측방향 \r\n하단의 사항에 해당되는 경우 주차 제한될 수 있습니다.(자동차 등록증 내 제원 기준) : 1. 차체와 바닥 사이 간격 110mm 이하, 바퀴와 바퀴 사이 간격 2,270mm 이하 주차 불가 / 2. 공차 중량 2,200Kg 초과 차량 주차 불가 / 3. 스파크(신형)또는 루프랙, 캐리어 장착 차량 등 튜닝차량 등(주차 센서 오작동) / 4. 일부 SUV 및 승합, 화물 차량 (에쿠스, 제네시스, 베라크루즈, 모하비, 그랜드 카니발, 카니발, 코란도 스포츠, 코란도 투리스모, 렉스턴, 로디우스, 무쏘 스포츠, 체어맨,카이런, 맥스크루즈, 베라크루즈, 테라칸, 쏘렌토, 싼타페, 트라제XG, 윈스톰 등) / 5. 전기차\r\n기계식 주차장치 오류 및 중량 초과로 인한 사고의 위험이 있사오니, 불편하시더라도 안전을 위해 주차장 소속 직원의 안내를 받으시기 바랍니다.\r\n주차공간이 협소하오니, 대중교통(전 노선 이용가능) 이용 부탁드립니다.\r\n주차 관련 문의는 ARS 1544-8855 를 통해 문의해주시기 바랍니다.",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 712,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0005",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9097,
+    "CinemaNameKR": "포항",
+    "CinemaNameUS": "Pohang",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "36.0366336563687",
+    "Longitude": "129.362946703682",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

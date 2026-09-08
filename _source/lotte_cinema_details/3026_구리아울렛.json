@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 구리시 동구릉로136번길 47 (인창동)",
+    "BusMap": "[동구동행정복지센터] 정류장 하차 (농수산시장 방면)_96,167-1,6번 : (롯데아울렛 방면) 횡단보도 이용 → 영풍문고 우측 아울렛 정문 출입구 이용\r\n[동구동행정복지센터] 정류장 하차 (롯데아울렛 방면)_96,167-1,6번 : (롯데아울렛 방면) 도보 1분 직진 → 영풍문고 우측 아울렛 정문 출입구 이용",
+    "SubWayMap": "8호선 동구릉역 : 4번 출구 직진 후 우측 골목 이동 → 세븐일레븐 앞 횡단보도 이용 → 아울렛 출입구 이용",
+    "MyCarMap": "[네비게이션 검색] 롯데시네마 구리아울렛 주차장\r\n경기도 구리시 동구릉로 136번길 47 (인창동, 롯데아울렛) : 노브랜드 건물과 아울렛 건물 사이로 좌회전<br>\r\n[주차장 이용안내]\r\n<font color=red>주의사항 - 옥외, 타워 주차장 할인 불가(아울렛 지하주차장 이용)\r\n주차 대수 (총 1,270대)\r\n영화관 인접 주차 구역(지하주차장) : 지하 2층 ~ 지하 5층 A~C 7구역\r\n영화관 오시는 길 : 지하 2~ 3층 주차 시 - 엘레베이터 탑승(6층 매점 및 공차, 7층 상영관 1~7관) <br> 지하 4~5층 주차 시 - 에스컬레이터 이용(지하 3층까지) →지하 3층에서 엘레베이터 탑승(6~7층)",
+    "ParkingInfo": "<font color=red>영화관람 당일 3시간 무료(추가 10분당 500원) : 초과시 10분당 500원 / 아울렛 구매금액 합산시 최대 6시간<br> 아울렛 구매 금액별 1만원(1시간), 3만원(2시간), 5만원(3시간)<br>\r\n주차권 : 모바일티켓 → 롯데시네마 APP 로그인 후 바로티켓 하단 주차권 바코드 사용 <br> 지류티켓 → 영화 티켓 하단 주차권 바코드 사용<br>\r\n※ 아울렛 지하(B2~5층) 주차장<br>\r\n<font color=red>본 건물외 구리유통종합시장 및 마트 주차장 할인 이용 불가<br>\r\n\r\n주차 정산 : 사전 정산기 활용 (영화관람 후 사전정산)<br> 사전 정산기 위치 7층, B2F~B3F 엘레베이터 앞 / B2F~B5F 에스컬레이터 앞<br>\r\n<font color=red>주말 및 공휴일의 경우 주차 지연으로 대기가 길어질 수 있으니 평일보다 여유롭게 출발하시기 바랍니다.(주차 지연으로 인한 교환/환불 불가)",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 1115,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3026,
+    "CinemaNameKR": "구리아울렛",
+    "CinemaNameUS": "Guri Outlet",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.6119381",
+    "Longitude": "127.1405743",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

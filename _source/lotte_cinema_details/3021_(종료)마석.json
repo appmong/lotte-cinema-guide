@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 남양주시 화도읍 경춘로 1992",
+    "BusMap": "[마트 영업시간 내]\r\n롯데마트 정거장(산성마을입구방면)_1-4,6,7,30-15,55,65-1,168,330-1,330-3번: 전방 50M 방면 마트 출입문 이용(4층)<br>\r\n롯데마트 정거장(원병원 방면)_1-4,6,7,30-15,55,65-1,168,330-1,330-3번 : (롯데마트방면)횡단보도 이용 → 마트 출입문 이용(4층)\r\n<font color=red>[마트 영업시간 외]\r\n롯데마트 정거장(산성마을입구방면)_1-4,6,7,30-15,55,65-1,168,330-1,330-3번: 전방 50M 방면 마트 출입구 이용 →<font color=red> 출입문 옆 비상계단으로 2층 이동 → 엘레베이터 이용하여 4층이동<br>\r\n롯데마트 정거장(원병원 방면)_1-4,6,7,30-15,55,65-1,168,330-1,330-3번 : (롯데마트방면)횡단보도 이용 → 마트 출입문 이용(4층) → 출입문 옆 비상계단으로 2층 이동 → 엘레베이터 이용하여 4층이동",
+    "SubWayMap": "[마트 영업시간 내]\r\n경춘선 마석역 하차 : 마석역 1번출구(이디야 방면 직진) → (다이소 방면) 횡단보도 이용 → (하나로 마트 방면) 직진 후 횡단보도 이용 →<br> 마트 출입문 이용(4층)<br></br>\r\n<font color=red>[마트 영업시간 외]\r\n경춘선 마석역 하차 : 마석역 1번출구(이디야 방면 직진) → (다이소 방면) 횡단보도 이용 → (하나로 마트 방면) 직진 후 횡당보도 이용 →<br><font color=red> 마트 출입문 옆 비상계단으로 2층 이동 → 엘레베이터 이용하여 4층 이동",
+    "MyCarMap": "[네비게이션 검색] : 롯데시네마 마석 주차장 \r\n경기도 남양주시 화도읍 마석우리 255-24(롯데마트 4층)<br></br>\r\n[주차장 이용안내]\r\n지상주차장(건물 2~4층)\r\n주차대수(총 367대)\r\n<font color=red>영화관 인접 주차장 :<font color=red> 4층 시네마 전용 옥상 주차장\r\n영화관 오시는 길 : 2~3층 주차 시 -  엘레베이터 및 무빙 워크 이용(4층) <br> ※ 마트 영업시간 외 엘레베이터만 이용 가능 <br> 4층 주차 시 - 영화관 바로 연결",
+    "ParkingInfo": "<font color=red>영화 관람 시 무료 주차 가능",
+    "TotalScreenCount": 2,
+    "TotalSeatCount": 172,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 3021,
+    "CinemaNameKR": "(종료)마석",
+    "CinemaNameUS": "Maseok",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.6503518",
+    "Longitude": "127.3094478",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

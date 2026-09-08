@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "경기 고양시 일산동구 무궁화로 32-34 (장항동,일산 라페스타 C동) 3층",
+    "BusMap": "일산동부경찰서(중) 정류장 하차 후, 호수공원 방향으로 도보 5분\r\n일반버스 11, 65, 66, 67, 83, 89, 90, 95, 97, 98, 100, 150, 921, 2000, N999\r\n간선, 지선, 직행, 광역, 시외버스 707, 760, 830, 1100, 1500, 3800, 5000, 9700, 9707, 9711, M7412\r\n공항버스 3300\r\n마을버스 056, 057, 066, 078\r\n일반버스 81, 99 이용시 라페스타 먹자골목 정류장 하차",
+    "SubWayMap": "3호선 정발산역 : 2번 출구 (도보 직진 300미터 > 좌측 방향 > 도보 직진 200m > 대각선 횡단보도 이용 > 건물 진입 후 엘리베이터 이용 3층)",
+    "MyCarMap": "경기도 고양시 일산동구 무궁화로 32-34 (장항동, 라페스타 C동 3층)",
+    "ParkingInfo": "라페스타 쇼핑몰 주차장 무인정산시스템 이용\r\n라페스타 A~F동 지하 주차 후, 상영관 입장시 주차 할인 인증(3시간 무료 주차)\r\n라페스타 쇼핑몰을 이용하시면서 주차할인 인증을 추가로 받으시면 최대 6시간 무료주차가 가능합니다.\r\n라페스타 쇼핑몰 주차장은 600대 동시주차가 가능하오나 주말에는 매우 혼잡하므로 영화관 방문에 시간적 여유를 두시거나, 대중교통 이용을 권장합니다. ",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 745,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0002",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9095,
+    "CinemaNameKR": "라페스타",
+    "CinemaNameUS": "La Festa",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.6615803226554",
+    "Longitude": "126.768589994622",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

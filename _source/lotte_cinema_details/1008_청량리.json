@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "901"
+    ],
+    "CinemaIntro": "",
+    "Address": "서울 동대문구 왕산로 214 (전농동)",
+    "BusMap": "청량리환승센터역 하차_동대문05, 51, 65, 121 : 롯데백화점 방면 도보 직진(50m) > 롯데백화점 1층 / 청량리역사 3층 이동 > 엘리베이터/에스컬레이터 이용하여 7층 이동 \r\n백화점 영업시간 外 : 청량리역사 내 에스컬레이터 이용",
+    "SubWayMap": "경의중앙선 청량리역 하차 > 1번 출구 이용 > 청량리역사 중앙 에스컬레이터 이용\r\n1호선 청량리역 하차 > 4번 출구 이용 > 정면 롯데백화점 방향 이동 > 백화점  정문 출입 > 엘리베이터/에스컬레이터 이용",
+    "MyCarMap": "<네비게이션 검색 '롯데시네마청량리'> : 서울특별시 동대문구 왕산로 214(전농동, 롯데백화점 7층)<br></br>\r\n<주차장 이용 방법>\r\n3~7층 주차장, 옥상주차장\r\n주차가능대수 총 1,592대\r\n영화관 인접구역 : 7층 A1·A2구역/옥상주차장\r\n영화관 오시는 길 : 청량리역사 진입 후 엘리베이터, 에스컬레이터 이용 7층 이동",
+    "ParkingInfo": "영화 관람 당일 3시간 무료 : 초과 시 10분당 천원 / 백화점 구매  금액 합산 가능<br></br>\r\n<주차권 안내>\r\n모바일 티켓 : 바로티켓 상단 주차권 버튼 클릭 시 바코드 생성\r\n지류 티켓 : 영화 티켓 하단 주차권 바코드 사용<br></br>\r\n<주차 정산 안내>\r\n무인정산기(3~7층, 주차장 입구 비치) 사전 정산(현금 사용 불가)",
+    "TotalScreenCount": 8,
+    "TotalSeatCount": 1733,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0001",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 1008,
+    "CinemaNameKR": "청량리",
+    "CinemaNameUS": "Cheongnyangni",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.58094758604442",
+    "Longitude": "127.04695545902146",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

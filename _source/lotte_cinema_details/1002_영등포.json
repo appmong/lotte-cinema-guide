@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "서울 영등포구 경인로 846 (영등포동) 민자역사 7층",
+    "BusMap": "영등포역(정류장번호 19114) > 롯데백화점 주차장 방면으로 70m 이동 > 주차장 좌측 시네마동 건물 7층\r\n영등포역(중) 하차(정류장번호 19005, 19006) > 롯데백화점 방면으로 횡단보도 이용 > 롯데백화점 건물 좌측 100m 직진 > 롯데백화점 주차장 우측 시네마동 건물 7층\r\n영등포역 하차(정류장번호 19599) > 우체국 방면으로 30m 직진 > 올리브영 방면으로 횡단보도 이용 > 롯데백화점 방면으로 횡단보도 이용 > 롯데백화점 건물 좌측 100m 직진 > 롯데백화점 주차장 우측 시네마동 건물 7층\r\n경방타임스퀘어.신세계백화점(정류장번호 19821) > 우체국 방면으로 80m 직진 > 올리브영 방면으로 횡단보도 이용 > 롯데백화점 방면으로 횡단보도 이용 > 롯데백화점 건물 좌측 100m 직진 > 롯데백화점 주차장 우측 시네마동 건물 7층\r\n경방타임스퀘어.신세계백화점(정류장번호 19112) > 롯데백화점 방면으로 130m 이동 > 롯데백화점 건물 좌측 100m 직진 > 롯데백화점 주차장 우측 시네마동 건물 7층\r\n영등포역후문(정류장번호 19893, 19331) > 영등포역 1번 출구 진입 > 영등포역 3번 출구 이동 > 우회전 후 110m 직진 > 롯데백화점 우측 시네마동 건물 7층",
+    "SubWayMap": "<font color=blue>1호선 영등포역\r\n[백화점(B1) 연결통로 이용] :  <font color=gray>지하 개찰구 우측 롯데백화점 진입 > 에스컬레이터 및 엘리베이터 이용하여 7층 이동 > AK골프 매장 옆 롯데시네마 연결 통로 진입\r\n[백화점(3F) 연결통로 이용] : <font color=gray>지상 개찰구 정면 롯데백화점 진입 > 에스컬레이터 및 엘리베이터 이용하여 7층 이동 > AK골프 매장 옆 롯데시네마 연결 통로 진입\r\n[백화점 영업 시간 외 또는 휴점 시] : <font color=gray>영등포역 5번 출구 90m 직진 > 롯데백화점 주차장 우측 시네마동 건물 7층\r\n<font color=purple>5호선 영등포시장역\r\n<font color=gary>영등포시장역 3번출구 730m 직진 > 롯데백화점 건물 좌측 100m 직진 > 롯데백화점 주차장 우측 시네마동 건물 7층",
+    "MyCarMap": "[네비게이션 검색]<font color=red>영등포역 1번 출구\r\n<font color=gray>지상주차장 4층-6층 주차 후 영화관 인접구역 엘리베이터 이용 7층 하차\r\n<font color=gray>영화관 인접구역 4층 424-428 기둥 / 5층 504-508 기동 / 6층 601, 616-617 기둥",
+    "ParkingInfo": "<font color=red>영화 티켓 인증 시 3시간 무료 <font color=black>(기본 30분 무료 포함)\r\n<font clor=gray>초과 시 10분당 1,000원 / 백화점 구매금액 합산 가능 (백화점 주차정산 후 영화관 주차정산 必)\r\n[주차권안내]\r\n<font color=gray>모바일티켓_티켓 좌측 상단 주차권 버튼 클릭 > 바코드 생성\r\n<font color=gray>지류티켓_티켓 하단 주차권 바코드 사용 (주차권 미출력 시 스위트샵 內 직원에게 문의)\r\n[주차 정산]\r\n<font color=red>출차 시 7층 영화관 엘리베이터 앞 무인정산기 이용 <font color=black> (정산 후 30분 내 미출차 시 추가요금 발생) ",
+    "TotalScreenCount": 7,
+    "TotalSeatCount": 1328,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0001",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 1002,
+    "CinemaNameKR": "영등포",
+    "CinemaNameUS": "Yeongdeungpo",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.515018",
+    "Longitude": "126.908022",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

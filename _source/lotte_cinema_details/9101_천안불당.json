@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      "980"
+    ],
+    "CinemaIntro": "",
+    "Address": "충남 천안시 서북구 불당21로 67-8 (불당동) 7층 (정석프라자 4차)",
+    "BusMap": "롯데시네마 천안불당은 3, 21, 90 은 시청 앞 사거리에서 하차, 도보 5분 이동이며, \r\n990, 1 은 불당상업지구 혹은 서울대정병원에서 하차하여 도보 3분 이동하여 정석프라자 4차 7층에 위치해 있습니다.",
+    "SubWayMap": "",
+    "MyCarMap": "주차는 본 건물 지하 2층~4층 주차장 이용하시면 됩니다.\r\n(티켓인증)\r\n주차요금은 당일 영화관람 시 매표 옆 테블릿 주차인증 차량에 대해 최대 4시간 무료이며, 이후 10분당 1,000원의 주차요금이 \r\n발생합니다. 출차 전 매표 옆 테블릿에서 주차인증 부탁드립니다.\r\n주차공간이 매우 협소하므로, 가급적 대중교통 이용 부탁드립니다.",
+    "ParkingInfo": "",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 658,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0003",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 9101,
+    "CinemaNameKR": "천안불당",
+    "CinemaNameUS": "buldang",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "36.8131471",
+    "Longitude": "127.1084690",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}

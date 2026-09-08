@@ -1,0 +1,43 @@
+{
+  "CinemaDetail": {
+    "CinemaKeyVisual": "",
+    "SpecialScreenDivisionCode": [
+      ""
+    ],
+    "CinemaIntro": "",
+    "Address": "서울 금천구 디지털로10길 9 (가산동)",
+    "BusMap": "[지선] 5536, 5616, 5712, 5714\r\n[간선] 503, 504, 571, 652\r\n ·구로방면 : 금천 패션아울렛 사거리 [W몰] 하차하여 현대아울렛까지 도보 2분 이동\r\n ·가산디지털 방면 : 금천 패션아울렛 사거리 [마리오 아울렛] 하차하여 현대아울렛까지 도보 2분 이동\r\n안내되어있는 버스 노선 변경 등에 따라 오시는 길이 변경될 수 있습니다.출발 전 버스 노선을 반드시 확인해주세요.",
+    "SubWayMap": "[1호선 가산디지털단지역 하차]:1번 출구 앞 시내 버스 정류장에서 5616, 5712 이용하여 [W몰] 정류장 하차 후 현대아울렛까지 도보 2분 이동 / 4번 출구에서 도보 600M 이동\r\n[건물 영업시간 외 이용방법 ]:도보 이동 시 현대아울렛 옆 우리은행 건물에서 우회전하여 춘천옥 맞은편 출입구 이용 / 자차 이동 시 현대아울렛 주차장 이용(상시 개방)",
+    "MyCarMap": "네비게이션 이용 시 : 서울시 금천구 디지털로 10길 9, 현대아울렛\r\n남부순환도로 공항 방면으로 시흥IC를 500M 지나, 디지털단지 오거리를 건넌 후, 고가 아래에서 U턴 → 가산로를 따라 100M 이동 후,  지웰에스테이트 골목으로 우회전 → 현대아울렛 후문에서 좌회전\r\n가산디지털 쇼핑몰 지하 2F~5F / 총 902대",
+    "ParkingInfo": "티켓 제시시 3시간 무료주차/ 추가 10분당 500원",
+    "TotalScreenCount": 6,
+    "TotalSeatCount": 1054,
+    "IsFavoriteCinema": "",
+    "DivisionCode": 1,
+    "DetailDivisionCode": "0001",
+    "DetailDivisionNameKR": null,
+    "CinemaID": 1013,
+    "CinemaNameKR": "가산디지털",
+    "CinemaNameUS": "Gasan Digital",
+    "CinemaName": null,
+    "SortSequence": 0,
+    "Latitude": "37.4775952",
+    "Longitude": "126.8890717",
+    "Distance": 0.0,
+    "SmartOrderYN": null,
+    "OpenDtYN": null,
+    "StageGreetingYN": null,
+    "CinemaAreaCode": null,
+    "CinemaAddrSummary": null,
+    "CinemaAreaName": null,
+    "CinemaAreaSort": 0,
+    "Active": 0,
+    "CinemaOprtDivCd": null,
+    "DuplexYN": null,
+    "SnckUnitInfoNewItems": null
+  },
+  "IsOK": "true",
+  "ResultMessage": "SUCCESS",
+  "ResultCode": null,
+  "EventResultYn": null
+}
