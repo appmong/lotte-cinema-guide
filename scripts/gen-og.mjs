@@ -16,25 +16,20 @@ const HOST = URL.replace(/^https?:\/\//, "").replace(/\/+$/, "");
 const esc = (s) => s.replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
 
 const FONT = "'Malgun Gothic','Apple SD Gothic Neo',sans-serif";
-const NAVY = "#1a2a6c";
 
 const og = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#1a2a6c"/><stop offset="1" stop-color="#26377f"/>
+    <stop offset="0" stop-color="#e4002b"/><stop offset="1" stop-color="#9b0020"/>
   </linearGradient></defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <g transform="translate(90,120)">
-    <rect x="0" y="0" width="120" height="80" rx="14" fill="#31439a"/>
-    <g fill="#ffffff" opacity="0.9">
-      <rect x="10" y="10" width="8" height="8" rx="2"/><rect x="10" y="36" width="8" height="8" rx="2"/><rect x="10" y="62" width="8" height="8" rx="2"/>
-      <rect x="102" y="10" width="8" height="8" rx="2"/><rect x="102" y="36" width="8" height="8" rx="2"/><rect x="102" y="62" width="8" height="8" rx="2"/>
-    </g>
-    <path d="M46 22 L82 40 L46 58 Z" fill="#ffffff"/>
+  <g transform="translate(90,116)">
+    <rect x="0" y="0" width="96" height="96" rx="20" fill="#ffffff"/>
+    <path d="M34 22 h15 v40 h26 v15 h-41 z" fill="#e4002b"/>
   </g>
   <text x="94" y="330" font-family="${FONT}" font-size="66" font-weight="800" fill="#ffffff" letter-spacing="-2">전국 롯데시네마</text>
   <text x="94" y="410" font-family="${FONT}" font-size="66" font-weight="800" fill="#ffffff" letter-spacing="-2">상영시간표 안내</text>
-  <text x="96" y="470" font-family="${FONT}" font-size="28" font-weight="500" fill="#c3ccff">지점별 위치 · 주차 · 예매 · 관람료 한눈에</text>
-  <text x="96" y="556" font-family="${FONT}" font-size="26" font-weight="700" fill="#8ea0ff">${esc(HOST)}</text>
+  <text x="96" y="470" font-family="${FONT}" font-size="28" font-weight="500" fill="#ffd0d7">지점별 위치 · 주차 · 예매 · 관람료 한눈에</text>
+  <text x="96" y="556" font-family="${FONT}" font-size="26" font-weight="700" fill="#ffb3bf">${esc(HOST)}</text>
 </svg>`;
 
 const icon = readFileSync(resolve(root, "public/favicon.svg"));

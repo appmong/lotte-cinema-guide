@@ -11,16 +11,8 @@ const topRegions = REGIONS.slice(0, 6);
   <div class="bar">
     <a href="/" class="brand" aria-label={SITE.name}>
       <svg class="brand-mark" width="30" height="30" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
-        <rect x="3" y="6" width="26" height="20" rx="4"></rect>
-        <g class="mark-perf">
-          <rect x="6" y="9" width="2.4" height="2.4" rx="0.6"></rect>
-          <rect x="6" y="14.8" width="2.4" height="2.4" rx="0.6"></rect>
-          <rect x="6" y="20.6" width="2.4" height="2.4" rx="0.6"></rect>
-          <rect x="23.6" y="9" width="2.4" height="2.4" rx="0.6"></rect>
-          <rect x="23.6" y="14.8" width="2.4" height="2.4" rx="0.6"></rect>
-          <rect x="23.6" y="20.6" width="2.4" height="2.4" rx="0.6"></rect>
-        </g>
-        <path class="mark-play" d="M14 12.3 L20.2 16 L14 19.7 Z"></path>
+        <rect x="3" y="3" width="26" height="26" rx="6" fill="#e4002b"></rect>
+        <path d="M12 8 h4 v12 h7 v4 h-11 z" fill="#ffffff"></path>
       </svg>
       <span class="brand-text">{SITE.name}</span>
     </a>
@@ -77,9 +69,6 @@ const topRegions = REGIONS.slice(0, 6);
 <style>
   .brand { display: inline-flex; align-items: center; gap: 9px; }
   .brand-mark { flex: none; display: block; }
-  .brand-mark > rect { fill: var(--accent); }
-  .brand-mark .mark-perf rect { fill: #fff; opacity: 0.85; }
-  .brand-mark .mark-play { fill: #fff; }
   .brand-text { font-weight: 800; letter-spacing: -0.02em; font-size: 17px; }
 
   .nav { display: flex; gap: 2px; flex-wrap: wrap; margin-left: auto; }
